@@ -1,5 +1,0 @@
-PATH:
-  REF_DIR: /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Reference
-  HG38_GENOME: hg38/hg38.fa
-  INDIR : /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Finalsets/Raw_data
-  OUTDIR : /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Finalsets/Data
