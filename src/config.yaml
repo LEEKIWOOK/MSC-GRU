@@ -1,0 +1,12 @@
+Description: "Single target training"
+DATA:
+  out_dir: /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Results/Cas9/test
+  data_config: /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/gflas-knockout-efficiency/Projects_source/test3_merge_finetune_cas9/data/data_config.yaml
+MODEL:
+  gamma: 0.01
+  eta: 50
+  optimizer_lr: 1e-3
+  weight_decay: 0.95 #0.95
+  batch: 256
+  epoch: 500 #wang -> 500
+  earlystop: 20

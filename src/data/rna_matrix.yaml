@@ -1,0 +1,12 @@
+DATA:
+  in_dir: /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Finalsets/Raw_data
+  png_dir: /home/kwlee/Projects_gflas/Team_BI/Projects/1.Knockout_project/Data/Finalsets/RNAmat
+
+  cas9_wt_kim: Cas9_wt_kim.tsv
+  cas9_wt_wang: Cas9_wt_wang.tsv
+  cas9_wt_xiang: Cas9_wt_xiang.tsv
+  cas9_hf_wang: Cas9_HF1_wang.tsv
+  cas9_esp_wang: Cas9_esp_wang.tsv
+  #cas12_wt_kim: Cas12a_wt_kim.tsv
+
+  seed: 7
