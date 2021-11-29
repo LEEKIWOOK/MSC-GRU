@@ -195,3 +195,2315 @@ Validation step : Epoch : [37/500] [0/23], Loss : 0.023422569036483765
 Validation Spearman correlation = 0.702724108529699
 Validation loss decreased (0.025602 --> 0.025562).  Saving model ...
 Training step : Epoch : [38/500] [0/130], Loss : 0.0277889184653759, Learning rate : 0.037525
+Training Spearman correlation = 0.6259984338830004
+Validation step : Epoch : [38/500] [0/23], Loss : 0.023119913414120674
+Validation Spearman correlation = 0.7078795368088979
+Validation loss decreased (0.025562 --> 0.025523).  Saving model ...
+Training step : Epoch : [39/500] [0/130], Loss : 0.026425840333104134, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.632781610442295
+Validation step : Epoch : [39/500] [0/23], Loss : 0.0232874546200037
+Validation Spearman correlation = 0.7110832538441808
+Validation loss decreased (0.025523 --> 0.025390).  Saving model ...
+Training step : Epoch : [40/500] [0/130], Loss : 0.023510893806815147, Learning rate : 0.0001
+Training Spearman correlation = 0.6411465023429901
+Validation step : Epoch : [40/500] [0/23], Loss : 0.023330610245466232
+Validation Spearman correlation = 0.711022637207724
+Validation loss decreased (0.025390 --> 0.025257).  Saving model ...
+Training step : Epoch : [41/500] [0/130], Loss : 0.02544073760509491, Learning rate : 0.02505
+Training Spearman correlation = 0.6331237207132397
+Validation step : Epoch : [41/500] [0/23], Loss : 0.022869743406772614
+Validation Spearman correlation = 0.7117797673469652
+Validation loss decreased (0.025257 --> 0.025223).  Saving model ...
+Training step : Epoch : [42/500] [0/130], Loss : 0.025244200602173805, Learning rate : 0.05
+Training Spearman correlation = 0.6322670008521566
+Validation step : Epoch : [42/500] [0/23], Loss : 0.0232849083840847
+Validation Spearman correlation = 0.7148228575579383
+Validation loss decreased (0.025223 --> 0.025189).  Saving model ...
+Training step : Epoch : [43/500] [0/130], Loss : 0.023466328158974648, Learning rate : 0.037525
+Training Spearman correlation = 0.6390869273449666
+Validation step : Epoch : [43/500] [0/23], Loss : 0.023046575486660004
+Validation Spearman correlation = 0.7184471695223081
+Validation loss decreased (0.025189 --> 0.025034).  Saving model ...
+Training step : Epoch : [44/500] [0/130], Loss : 0.024477068334817886, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6436261204050688
+Validation step : Epoch : [44/500] [0/23], Loss : 0.02297266758978367
+Validation Spearman correlation = 0.7189708843691692
+Validation loss decreased (0.025034 --> 0.024879).  Saving model ...
+Training step : Epoch : [45/500] [0/130], Loss : 0.028971105813980103, Learning rate : 0.0001
+Training Spearman correlation = 0.6471559835230621
+Validation step : Epoch : [45/500] [0/23], Loss : 0.023070020601153374
+Validation Spearman correlation = 0.7189436159837402
+Validation loss decreased (0.024879 --> 0.024508).  Saving model ...
+Training step : Epoch : [46/500] [0/130], Loss : 0.023728083819150925, Learning rate : 0.02505
+Training Spearman correlation = 0.6451661028293241
+Validation step : Epoch : [46/500] [0/23], Loss : 0.02266254834830761
+Validation Spearman correlation = 0.7211424460898598
+Validation loss decreased (0.024508 --> 0.024137).  Saving model ...
+Training step : Epoch : [47/500] [0/130], Loss : 0.024231716990470886, Learning rate : 0.05
+Training Spearman correlation = 0.6444384742669172
+Validation step : Epoch : [47/500] [0/23], Loss : 0.022407308220863342
+Validation Spearman correlation = 0.721371369649746
+Validation loss decreased (0.024137 --> 0.024009).  Saving model ...
+Training step : Epoch : [48/500] [0/130], Loss : 0.022525250911712646, Learning rate : 0.037525
+Training Spearman correlation = 0.6411147296368122
+Validation step : Epoch : [48/500] [0/23], Loss : 0.022423937916755676
+Validation Spearman correlation = 0.7231032065764873
+Validation loss decreased (0.024009 --> 0.023881).  Saving model ...
+Training step : Epoch : [49/500] [0/130], Loss : 0.022867752239108086, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6554187352518098
+Validation step : Epoch : [49/500] [0/23], Loss : 0.022108495235443115
+Validation Spearman correlation = 0.7259789935536393
+Validation loss decreased (0.023881 --> 0.023853).  Saving model ...
+Training step : Epoch : [50/500] [0/130], Loss : 0.024577895179390907, Learning rate : 0.0001
+Training Spearman correlation = 0.6583567692165804
+Validation step : Epoch : [50/500] [0/23], Loss : 0.02224600687623024
+Validation Spearman correlation = 0.7260861740547614
+Validation loss decreased (0.023853 --> 0.023824).  Saving model ...
+Training step : Epoch : [51/500] [0/130], Loss : 0.024346599355340004, Learning rate : 0.02505
+Training Spearman correlation = 0.6531104995867886
+Validation step : Epoch : [51/500] [0/23], Loss : 0.02200409024953842
+Validation Spearman correlation = 0.7285100424142499
+Validation loss decreased (0.023824 --> 0.023686).  Saving model ...
+Training step : Epoch : [52/500] [0/130], Loss : 0.024819141253829002, Learning rate : 0.05
+Training Spearman correlation = 0.6497502199781278
+Validation step : Epoch : [52/500] [0/23], Loss : 0.021860836073756218
+Validation Spearman correlation = 0.7270690647168592
+Validation loss decreased (0.023686 --> 0.023549).  Saving model ...
+Training step : Epoch : [53/500] [0/130], Loss : 0.025633540004491806, Learning rate : 0.037525
+Training Spearman correlation = 0.6540077105445565
+Validation step : Epoch : [53/500] [0/23], Loss : 0.02206512540578842
+Validation Spearman correlation = 0.7303095004595797
+Validation loss decreased (0.023549 --> 0.023537).  Saving model ...
+Training step : Epoch : [54/500] [0/130], Loss : 0.02414064109325409, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.664201597814021
+Validation step : Epoch : [54/500] [0/23], Loss : 0.021800871938467026
+Validation Spearman correlation = 0.7332977378646329
+Validation loss decreased (0.023537 --> 0.023526).  Saving model ...
+Training step : Epoch : [55/500] [0/130], Loss : 0.02438657358288765, Learning rate : 0.0001
+Training Spearman correlation = 0.6638575885664539
+Validation step : Epoch : [55/500] [0/23], Loss : 0.021894823759794235
+Validation Spearman correlation = 0.7332505150240436
+Validation loss decreased (0.023526 --> 0.023483).  Saving model ...
+Training step : Epoch : [56/500] [0/130], Loss : 0.022393014281988144, Learning rate : 0.02505
+Training Spearman correlation = 0.6579563684332782
+Validation step : Epoch : [56/500] [0/23], Loss : 0.021697185933589935
+Validation Spearman correlation = 0.7338155180744944
+Validation loss decreased (0.023483 --> 0.023439).  Saving model ...
+Training step : Epoch : [57/500] [0/130], Loss : 0.02438228763639927, Learning rate : 0.05
+Training Spearman correlation = 0.65332947802782
+Validation step : Epoch : [57/500] [0/23], Loss : 0.02151365764439106
+Validation Spearman correlation = 0.7334366397079193
+Validation loss decreased (0.023439 --> 0.023248).  Saving model ...
+Training step : Epoch : [58/500] [0/130], Loss : 0.0250411294400692, Learning rate : 0.037525
+Training Spearman correlation = 0.6606695538845275
+Validation step : Epoch : [58/500] [0/23], Loss : 0.021378997713327408
+Validation Spearman correlation = 0.7350978712014613
+Validation loss decreased (0.023248 --> 0.023057).  Saving model ...
+Training step : Epoch : [59/500] [0/130], Loss : 0.02284245938062668, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6666597630319018
+Validation step : Epoch : [59/500] [0/23], Loss : 0.021285321563482285
+Validation Spearman correlation = 0.7374052590300214
+Validation loss decreased (0.023057 --> 0.023011).  Saving model ...
+Training step : Epoch : [60/500] [0/130], Loss : 0.019122011959552765, Learning rate : 0.0001
+Training Spearman correlation = 0.6662060923968935
+Validation step : Epoch : [60/500] [0/23], Loss : 0.02135755494236946
+Validation Spearman correlation = 0.7373870735070498
+Validation loss decreased (0.023011 --> 0.022966).  Saving model ...
+Training step : Epoch : [61/500] [0/130], Loss : 0.02284827083349228, Learning rate : 0.02505
+Training Spearman correlation = 0.6673493990103855
+Validation step : Epoch : [61/500] [0/23], Loss : 0.021332446485757828
+Validation Spearman correlation = 0.7377172971840095
+Validation loss decreased (0.022966 --> 0.022878).  Saving model ...
+Training step : Epoch : [62/500] [0/130], Loss : 0.023074058815836906, Learning rate : 0.05
+Training Spearman correlation = 0.6620514335628506
+Validation step : Epoch : [62/500] [0/23], Loss : 0.021464142948389053
+Validation Spearman correlation = 0.738828968616728
+Validation loss decreased (0.022878 --> 0.022790).  Saving model ...
+Training step : Epoch : [63/500] [0/130], Loss : 0.02205185778439045, Learning rate : 0.037525
+Training Spearman correlation = 0.6687530687147812
+Validation step : Epoch : [63/500] [0/23], Loss : 0.02098282054066658
+Validation Spearman correlation = 0.741244951050305
+Validation loss decreased (0.022790 --> 0.022616).  Saving model ...
+Training step : Epoch : [64/500] [0/130], Loss : 0.022932669147849083, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6743654412282741
+Validation step : Epoch : [64/500] [0/23], Loss : 0.020876023918390274
+Validation Spearman correlation = 0.7421225028708438
+Validation loss decreased (0.022616 --> 0.022443).  Saving model ...
+Training step : Epoch : [65/500] [0/130], Loss : 0.01818537339568138, Learning rate : 0.0001
+Training Spearman correlation = 0.6771848180477843
+Validation step : Epoch : [65/500] [0/23], Loss : 0.020972253754734993
+Validation Spearman correlation = 0.7422283293680291
+Validation loss decreased (0.022443 --> 0.022171).  Saving model ...
+Training step : Epoch : [66/500] [0/130], Loss : 0.020895298570394516, Learning rate : 0.02505
+Training Spearman correlation = 0.6744939164784296
+Validation step : Epoch : [66/500] [0/23], Loss : 0.021081138402223587
+Validation Spearman correlation = 0.7420087344010987
+Validation loss decreased (0.022171 --> 0.021900).  Saving model ...
+Training step : Epoch : [67/500] [0/130], Loss : 0.02340671792626381, Learning rate : 0.05
+Training Spearman correlation = 0.6711961005481715
+Validation step : Epoch : [67/500] [0/23], Loss : 0.02088243141770363
+Validation Spearman correlation = 0.7433934566899887
+Validation loss decreased (0.021900 --> 0.021888).  Saving model ...
+Training step : Epoch : [68/500] [0/130], Loss : 0.020205268636345863, Learning rate : 0.037525
+Training Spearman correlation = 0.6748352891297696
+Validation step : Epoch : [68/500] [0/23], Loss : 0.02084813266992569
+Validation Spearman correlation = 0.7421682244024445
+Validation loss decreased (0.021888 --> 0.021877).  Saving model ...
+Training step : Epoch : [69/500] [0/130], Loss : 0.020239684730768204, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.680134361682865
+Validation step : Epoch : [69/500] [0/23], Loss : 0.02073437161743641
+Validation Spearman correlation = 0.7452444749703372
+Validation loss decreased (0.021877 --> 0.021764).  Saving model ...
+Training step : Epoch : [70/500] [0/130], Loss : 0.0236736498773098, Learning rate : 0.0001
+Training Spearman correlation = 0.6832114156967217
+Validation step : Epoch : [70/500] [0/23], Loss : 0.020752711221575737
+Validation Spearman correlation = 0.7455519826595208
+Validation loss decreased (0.021764 --> 0.021650).  Saving model ...
+Training step : Epoch : [71/500] [0/130], Loss : 0.022281400859355927, Learning rate : 0.02505
+Training Spearman correlation = 0.6767620894753563
+Validation step : Epoch : [71/500] [0/23], Loss : 0.0207638218998909
+Validation Spearman correlation = 0.746094442937198
+Validation loss decreased (0.021650 --> 0.021546).  Saving model ...
+Training step : Epoch : [72/500] [0/130], Loss : 0.020483605563640594, Learning rate : 0.05
+Training Spearman correlation = 0.6756815168157346
+Validation step : Epoch : [72/500] [0/23], Loss : 0.020865578204393387
+Validation Spearman correlation = 0.7463285577807287
+Validation loss decreased (0.021546 --> 0.021441).  Saving model ...
+Training step : Epoch : [73/500] [0/130], Loss : 0.02534601464867592, Learning rate : 0.037525
+Training Spearman correlation = 0.6771631292878724
+Validation step : Epoch : [73/500] [0/23], Loss : 0.020697522908449173
+Validation Spearman correlation = 0.7478624110783894
+Validation loss decreased (0.021441 --> 0.021320).  Saving model ...
+Training step : Epoch : [74/500] [0/130], Loss : 0.022027114406228065, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6805961431497627
+Validation step : Epoch : [74/500] [0/23], Loss : 0.02064255066215992
+Validation Spearman correlation = 0.7487047777440996
+Validation loss decreased (0.021320 --> 0.021199).  Saving model ...
+Training step : Epoch : [75/500] [0/130], Loss : 0.02339441329240799, Learning rate : 0.0001
+Training Spearman correlation = 0.6845947792879835
+Validation step : Epoch : [75/500] [0/23], Loss : 0.020662089809775352
+Validation Spearman correlation = 0.7488135282759039
+Validation loss decreased (0.021199 --> 0.021147).  Saving model ...
+Training step : Epoch : [76/500] [0/130], Loss : 0.023284785449504852, Learning rate : 0.02505
+Training Spearman correlation = 0.6804592259481858
+Validation step : Epoch : [76/500] [0/23], Loss : 0.02072140946984291
+Validation Spearman correlation = 0.7487917231931289
+Validation loss decreased (0.021147 --> 0.021094).  Saving model ...
+Training step : Epoch : [77/500] [0/130], Loss : 0.02010153979063034, Learning rate : 0.05
+Training Spearman correlation = 0.6769388087027637
+Validation step : Epoch : [77/500] [0/23], Loss : 0.020803580060601234
+Validation Spearman correlation = 0.7484660327187938
+Validation loss decreased (0.021094 --> 0.021008).  Saving model ...
+Training step : Epoch : [78/500] [0/130], Loss : 0.02280789241194725, Learning rate : 0.037525
+Training Spearman correlation = 0.6804189697939172
+Validation step : Epoch : [78/500] [0/23], Loss : 0.020466607064008713
+Validation Spearman correlation = 0.749856137377404
+Validation loss decreased (0.021008 --> 0.020921).  Saving model ...
+Training step : Epoch : [79/500] [0/130], Loss : 0.020459461957216263, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6881118072473139
+Validation step : Epoch : [79/500] [0/23], Loss : 0.020269501954317093
+Validation Spearman correlation = 0.7522592262369333
+Validation loss decreased (0.020921 --> 0.020911).  Saving model ...
+Training step : Epoch : [80/500] [0/130], Loss : 0.0225832499563694, Learning rate : 0.0001
+Training Spearman correlation = 0.6896476805787293
+Validation step : Epoch : [80/500] [0/23], Loss : 0.020343700423836708
+Validation Spearman correlation = 0.7522098644372509
+Validation loss decreased (0.020911 --> 0.020901).  Saving model ...
+Training step : Epoch : [81/500] [0/130], Loss : 0.019917530938982964, Learning rate : 0.02505
+Training Spearman correlation = 0.6860817734801968
+Validation step : Epoch : [81/500] [0/23], Loss : 0.02043008990585804
+Validation Spearman correlation = 0.7516187790545533
+Validation loss decreased (0.020901 --> 0.020871).  Saving model ...
+Training step : Epoch : [82/500] [0/130], Loss : 0.020505819469690323, Learning rate : 0.05
+Training Spearman correlation = 0.6826019259326886
+Validation step : Epoch : [82/500] [0/23], Loss : 0.020434660837054253
+Validation Spearman correlation = 0.7505847829959533
+Validation loss decreased (0.020871 --> 0.020840).  Saving model ...
+Training step : Epoch : [83/500] [0/130], Loss : 0.023767990991473198, Learning rate : 0.037525
+Training Spearman correlation = 0.6816749653071522
+Validation step : Epoch : [83/500] [0/23], Loss : 0.020065806806087494
+Validation Spearman correlation = 0.7527581851332926
+Validation loss decreased (0.020840 --> 0.020704).  Saving model ...
+Training step : Epoch : [84/500] [0/130], Loss : 0.020971769466996193, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6907463375844118
+Validation step : Epoch : [84/500] [0/23], Loss : 0.020117834210395813
+Validation Spearman correlation = 0.7537904828343746
+Validation loss decreased (0.020704 --> 0.020568).  Saving model ...
+Training step : Epoch : [85/500] [0/130], Loss : 0.01966160163283348, Learning rate : 0.0001
+Training Spearman correlation = 0.6932546098940477
+Validation step : Epoch : [85/500] [0/23], Loss : 0.020190950483083725
+Validation Spearman correlation = 0.7540429296301836
+Validation loss decreased (0.020568 --> 0.020537).  Saving model ...
+Training step : Epoch : [86/500] [0/130], Loss : 0.021958384662866592, Learning rate : 0.02505
+Training Spearman correlation = 0.6895551608731112
+Validation step : Epoch : [86/500] [0/23], Loss : 0.019925229251384735
+Validation Spearman correlation = 0.7546429267941503
+Validation loss decreased (0.020537 --> 0.020506).  Saving model ...
+Training step : Epoch : [87/500] [0/130], Loss : 0.019759291782975197, Learning rate : 0.05
+Training Spearman correlation = 0.6876102597084656
+Validation step : Epoch : [87/500] [0/23], Loss : 0.019787011668086052
+Validation Spearman correlation = 0.7540103192258257
+Validation loss decreased (0.020506 --> 0.020446).  Saving model ...
+Training step : Epoch : [88/500] [0/130], Loss : 0.020765112712979317, Learning rate : 0.037525
+Training Spearman correlation = 0.6900794598426303
+Validation step : Epoch : [88/500] [0/23], Loss : 0.01992732100188732
+Validation Spearman correlation = 0.7537874264232177
+Validation loss decreased (0.020446 --> 0.020386).  Saving model ...
+Training step : Epoch : [89/500] [0/130], Loss : 0.01914406195282936, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.6936381631262506
+Validation step : Epoch : [89/500] [0/23], Loss : 0.019947225227952003
+Validation Spearman correlation = 0.75393947852805
+Validation loss decreased (0.020386 --> 0.020333).  Saving model ...
+Training step : Epoch : [90/500] [0/130], Loss : 0.020994743332266808, Learning rate : 0.0001
+Training Spearman correlation = 0.6958512190039506
+Validation step : Epoch : [90/500] [0/23], Loss : 0.019988002255558968
+Validation Spearman correlation = 0.7540059703011579
+Validation loss decreased (0.020333 --> 0.020281).  Saving model ...
+Training step : Epoch : [91/500] [0/130], Loss : 0.018541593104600906, Learning rate : 0.02505
+Training Spearman correlation = 0.6901186270955554
+Validation step : Epoch : [91/500] [0/23], Loss : 0.020021110773086548
+Validation Spearman correlation = 0.7551043743192971
+Validation loss decreased (0.020281 --> 0.020124).  Saving model ...
+Training step : Epoch : [92/500] [0/130], Loss : 0.020099636167287827, Learning rate : 0.05
+Training Spearman correlation = 0.6911210164128518
+Validation step : Epoch : [92/500] [0/23], Loss : 0.020291440188884735
+Validation Spearman correlation = 0.7574426666991364
+Validation loss decreased (0.020124 --> 0.019967).  Saving model ...
+Training step : Epoch : [93/500] [0/130], Loss : 0.0199894979596138, Learning rate : 0.037525
+Training Spearman correlation = 0.6935803954303005
+Validation step : Epoch : [93/500] [0/23], Loss : 0.020242739468812943
+Validation Spearman correlation = 0.7573245371027336
+Validation loss decreased (0.019967 --> 0.019907).  Saving model ...
+Training step : Epoch : [94/500] [0/130], Loss : 0.021504338830709457, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7006802457100735
+Validation step : Epoch : [94/500] [0/23], Loss : 0.019921503961086273
+Validation Spearman correlation = 0.7573588204286431
+Validation loss decreased (0.019907 --> 0.019847).  Saving model ...
+Training step : Epoch : [95/500] [0/130], Loss : 0.01867534965276718, Learning rate : 0.0001
+Training Spearman correlation = 0.7021508617311502
+Validation step : Epoch : [95/500] [0/23], Loss : 0.020009491592645645
+Validation Spearman correlation = 0.7572955339173835
+Validation loss decreased (0.019847 --> 0.019794).  Saving model ...
+Training step : Epoch : [96/500] [0/130], Loss : 0.01985318213701248, Learning rate : 0.02505
+Training Spearman correlation = 0.6970862430243342
+Validation step : Epoch : [96/500] [0/23], Loss : 0.02001667022705078
+Validation Spearman correlation = 0.757301312964128
+Validation loss decreased (0.019794 --> 0.019742).  Saving model ...
+Training step : Epoch : [97/500] [0/130], Loss : 0.021274426952004433, Learning rate : 0.05
+Training Spearman correlation = 0.6912099565425791
+Validation step : Epoch : [97/500] [0/23], Loss : 0.01997523382306099
+Validation Spearman correlation = 0.7591051525604439
+Validation loss decreased (0.019742 --> 0.019717).  Saving model ...
+Training step : Epoch : [98/500] [0/130], Loss : 0.020678702741861343, Learning rate : 0.037525
+Training Spearman correlation = 0.6980411993956411
+Validation step : Epoch : [98/500] [0/23], Loss : 0.019503431394696236
+Validation Spearman correlation = 0.7587015506319136
+Validation loss decreased (0.019717 --> 0.019692).  Saving model ...
+Training step : Epoch : [99/500] [0/130], Loss : 0.018455689772963524, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7020267571767181
+Validation step : Epoch : [99/500] [0/23], Loss : 0.019482901319861412
+Validation Spearman correlation = 0.7591980369594612
+Validation loss decreased (0.019692 --> 0.019600).  Saving model ...
+Training step : Epoch : [100/500] [0/130], Loss : 0.0224708691239357, Learning rate : 0.0001
+Training Spearman correlation = 0.7015291345486817
+Validation step : Epoch : [100/500] [0/23], Loss : 0.019549909979104996
+Validation Spearman correlation = 0.7591540186539365
+Validation loss decreased (0.019600 --> 0.019509).  Saving model ...
+Training step : Epoch : [101/500] [0/130], Loss : 0.01848130114376545, Learning rate : 0.02505
+Training Spearman correlation = 0.7012971122660862
+Validation step : Epoch : [101/500] [0/23], Loss : 0.019522078335285187
+Validation Spearman correlation = 0.7613131842686808
+Validation loss decreased (0.019509 --> 0.019463).  Saving model ...
+Training step : Epoch : [102/500] [0/130], Loss : 0.0202400591224432, Learning rate : 0.05
+Training Spearman correlation = 0.6963651859099457
+Validation step : Epoch : [102/500] [0/23], Loss : 0.01956380531191826
+Validation Spearman correlation = 0.7588979758524625
+Validation loss decreased (0.019463 --> 0.019417).  Saving model ...
+Training step : Epoch : [103/500] [0/130], Loss : 0.021202372387051582, Learning rate : 0.037525
+Training Spearman correlation = 0.6980997149059565
+Validation step : Epoch : [103/500] [0/23], Loss : 0.019148388877511024
+Validation Spearman correlation = 0.761597164366918
+Validation loss decreased (0.019417 --> 0.019409).  Saving model ...
+Training step : Epoch : [104/500] [0/130], Loss : 0.020055627450346947, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7031281109559606
+Validation step : Epoch : [104/500] [0/23], Loss : 0.019201701506972313
+Validation Spearman correlation = 0.7613865148192309
+Validation loss decreased (0.019409 --> 0.019401).  Saving model ...
+Training step : Epoch : [105/500] [0/130], Loss : 0.018683351576328278, Learning rate : 0.0001
+Training Spearman correlation = 0.7028772796255958
+Validation step : Epoch : [105/500] [0/23], Loss : 0.019230075180530548
+Validation Spearman correlation = 0.761685109283392
+Validation loss decreased (0.019401 --> 0.019400).  Saving model ...
+Training step : Epoch : [106/500] [0/130], Loss : 0.021364858373999596, Learning rate : 0.02505
+Training Spearman correlation = 0.7028304308227658
+Validation step : Epoch : [106/500] [0/23], Loss : 0.019417427480220795
+Validation Spearman correlation = 0.7604434821182442
+Validation loss decreased (0.019400 --> 0.019398).  Saving model ...
+Training step : Epoch : [107/500] [0/130], Loss : 0.019602898508310318, Learning rate : 0.05
+Training Spearman correlation = 0.7039400217571983
+Validation step : Epoch : [107/500] [0/23], Loss : 0.019391648471355438
+Validation Spearman correlation = 0.7620435356264358
+Validation loss decreased (0.019398 --> 0.019278).  Saving model ...
+Training step : Epoch : [108/500] [0/130], Loss : 0.019406046718358994, Learning rate : 0.037525
+Training Spearman correlation = 0.7036528272549257
+Validation step : Epoch : [108/500] [0/23], Loss : 0.019268959760665894
+Validation Spearman correlation = 0.7619614321962486
+Validation loss decreased (0.019278 --> 0.019158).  Saving model ...
+Training step : Epoch : [109/500] [0/130], Loss : 0.01964397355914116, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7071982401111986
+Validation step : Epoch : [109/500] [0/23], Loss : 0.019097425043582916
+Validation Spearman correlation = 0.7616974909941623
+Validation loss decreased (0.019158 --> 0.019145).  Saving model ...
+Training step : Epoch : [110/500] [0/130], Loss : 0.020299825817346573, Learning rate : 0.0001
+Training Spearman correlation = 0.708344280605961
+Validation step : Epoch : [110/500] [0/23], Loss : 0.01914256066083908
+Validation Spearman correlation = 0.7618361099280869
+Validation loss decreased (0.019145 --> 0.019132).  Saving model ...
+Training step : Epoch : [111/500] [0/130], Loss : 0.021088022738695145, Learning rate : 0.02505
+Training Spearman correlation = 0.7068560307110036
+Validation step : Epoch : [111/500] [0/23], Loss : 0.019201163202524185
+Validation Spearman correlation = 0.7641482193692489
+Validation loss decreased (0.019132 --> 0.019097).  Saving model ...
+Training step : Epoch : [112/500] [0/130], Loss : 0.018470605835318565, Learning rate : 0.05
+Training Spearman correlation = 0.6989460752003199
+Validation step : Epoch : [112/500] [0/23], Loss : 0.019546901807188988
+Validation Spearman correlation = 0.7648465126120214
+Validation loss decreased (0.019097 --> 0.019063).  Saving model ...
+Training step : Epoch : [113/500] [0/130], Loss : 0.018385086208581924, Learning rate : 0.037525
+Training Spearman correlation = 0.7070162642044506
+Validation step : Epoch : [113/500] [0/23], Loss : 0.019102180376648903
+Validation Spearman correlation = 0.7647833549578181
+Validation loss decreased (0.019063 --> 0.019044).  Saving model ...
+Training step : Epoch : [114/500] [0/130], Loss : 0.019775405526161194, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7079271464285651
+Validation step : Epoch : [114/500] [0/23], Loss : 0.01915799453854561
+Validation Spearman correlation = 0.7627893710927091
+Validation loss decreased (0.019044 --> 0.019025).  Saving model ...
+Training step : Epoch : [115/500] [0/130], Loss : 0.021772518754005432, Learning rate : 0.0001
+Training Spearman correlation = 0.7098164997117996
+Validation step : Epoch : [115/500] [0/23], Loss : 0.019284578040242195
+Validation Spearman correlation = 0.7628784853601
+Validation loss decreased (0.019025 --> 0.018990).  Saving model ...
+Training step : Epoch : [116/500] [0/130], Loss : 0.020166609436273575, Learning rate : 0.02505
+Training Spearman correlation = 0.7101129481995294
+Validation step : Epoch : [116/500] [0/23], Loss : 0.019266746938228607
+Validation Spearman correlation = 0.765231640504062
+Validation loss decreased (0.018990 --> 0.018955).  Saving model ...
+Training step : Epoch : [117/500] [0/130], Loss : 0.01956167072057724, Learning rate : 0.05
+Training Spearman correlation = 0.7059193690405065
+Validation step : Epoch : [117/500] [0/23], Loss : 0.019267691299319267
+Validation Spearman correlation = 0.7661138476378024
+Validation loss decreased (0.018955 --> 0.018936).  Saving model ...
+Training step : Epoch : [118/500] [0/130], Loss : 0.021773245185613632, Learning rate : 0.037525
+Training Spearman correlation = 0.7074790412593107
+Validation step : Epoch : [118/500] [0/23], Loss : 0.018748918548226357
+Validation Spearman correlation = 0.7646648379502675
+Validation loss decreased (0.018936 --> 0.018916).  Saving model ...
+Training step : Epoch : [119/500] [0/130], Loss : 0.019105631858110428, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7102339713209951
+Validation step : Epoch : [119/500] [0/23], Loss : 0.01881350576877594
+Validation Spearman correlation = 0.7655411945462018
+Validation loss decreased (0.018916 --> 0.018841).  Saving model ...
+Training step : Epoch : [120/500] [0/130], Loss : 0.017400778830051422, Learning rate : 0.0001
+Training Spearman correlation = 0.7171099287169066
+Validation step : Epoch : [120/500] [0/23], Loss : 0.0188368521630764
+Validation Spearman correlation = 0.7658493305377523
+Validation loss decreased (0.018841 --> 0.018766).  Saving model ...
+Training step : Epoch : [121/500] [0/130], Loss : 0.01955088973045349, Learning rate : 0.02505
+Training Spearman correlation = 0.7099098120263593
+Validation step : Epoch : [121/500] [0/23], Loss : 0.01913394033908844
+Validation Spearman correlation = 0.7664931594703096
+Validation loss decreased (0.018766 --> 0.018691).  Saving model ...
+Training step : Epoch : [122/500] [0/130], Loss : 0.01867801882326603, Learning rate : 0.05
+Training Spearman correlation = 0.7023703942916995
+Validation step : Epoch : [122/500] [0/23], Loss : 0.018903985619544983
+Validation Spearman correlation = 0.7676906535115278
+Validation loss decreased (0.018691 --> 0.018615).  Saving model ...
+Training step : Epoch : [123/500] [0/130], Loss : 0.021696016192436218, Learning rate : 0.037525
+Training Spearman correlation = 0.71031364709125
+Validation step : Epoch : [123/500] [0/23], Loss : 0.018954064697027206
+Validation Spearman correlation = 0.7685726509537146
+Validation loss decreased (0.018615 --> 0.018594).  Saving model ...
+Training step : Epoch : [124/500] [0/130], Loss : 0.017497695982456207, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7116867281492811
+Validation step : Epoch : [124/500] [0/23], Loss : 0.018762120977044106
+Validation Spearman correlation = 0.7674062449815585
+Validation loss decreased (0.018594 --> 0.018573).  Saving model ...
+Training step : Epoch : [125/500] [0/130], Loss : 0.021939974278211594, Learning rate : 0.0001
+Training Spearman correlation = 0.7164271043202517
+Validation step : Epoch : [125/500] [0/23], Loss : 0.018858011811971664
+Validation Spearman correlation = 0.7678517137821664
+Validation loss decreased (0.018573 --> 0.018545).  Saving model ...
+Training step : Epoch : [126/500] [0/130], Loss : 0.01923905499279499, Learning rate : 0.02505
+Training Spearman correlation = 0.7123535199323382
+Validation step : Epoch : [126/500] [0/23], Loss : 0.01897248439490795
+Validation Spearman correlation = 0.7689557902305211
+Validation loss decreased (0.018545 --> 0.018517).  Saving model ...
+Training step : Epoch : [127/500] [0/130], Loss : 0.019181210547685623, Learning rate : 0.05
+Training Spearman correlation = 0.7115927102808455
+Validation step : Epoch : [127/500] [0/23], Loss : 0.018822818994522095
+Validation Spearman correlation = 0.7673524531778205
+Validation loss decreased (0.018517 --> 0.018435).  Saving model ...
+Training step : Epoch : [128/500] [0/130], Loss : 0.020788848400115967, Learning rate : 0.037525
+Training Spearman correlation = 0.71056599466502
+Validation step : Epoch : [128/500] [0/23], Loss : 0.018707815557718277
+Validation Spearman correlation = 0.7689364066755635
+Validation loss decreased (0.018435 --> 0.018352).  Saving model ...
+Training step : Epoch : [129/500] [0/130], Loss : 0.020945899188518524, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7181134608559763
+Validation step : Epoch : [129/500] [0/23], Loss : 0.018541408702731133
+Validation Spearman correlation = 0.767348378282926
+Validation loss decreased (0.018352 --> 0.018346).  Saving model ...
+Training step : Epoch : [130/500] [0/130], Loss : 0.01845366507768631, Learning rate : 0.0001
+Training Spearman correlation = 0.7202838549138231
+Validation step : Epoch : [130/500] [0/23], Loss : 0.018584344536066055
+Validation Spearman correlation = 0.7673288493669632
+Validation loss decreased (0.018346 --> 0.018339).  Saving model ...
+Training step : Epoch : [131/500] [0/130], Loss : 0.017802905291318893, Learning rate : 0.02505
+Training Spearman correlation = 0.716067205956998
+Validation step : Epoch : [131/500] [0/23], Loss : 0.018599577248096466
+Validation Spearman correlation = 0.7684985781799621
+Validation loss decreased (0.018339 --> 0.018326).  Saving model ...
+Training step : Epoch : [132/500] [0/130], Loss : 0.02193858101963997, Learning rate : 0.05
+Training Spearman correlation = 0.7120489644800543
+Validation step : Epoch : [132/500] [0/23], Loss : 0.018714256584644318
+Validation Spearman correlation = 0.7699000059361143
+Validation loss decreased (0.018326 --> 0.018312).  Saving model ...
+Training step : Epoch : [133/500] [0/130], Loss : 0.020381208509206772, Learning rate : 0.037525
+Training Spearman correlation = 0.7123607733732171
+Validation step : Epoch : [133/500] [0/23], Loss : 0.018258024007081985
+Validation Spearman correlation = 0.7701400263437572
+Validation loss decreased (0.018312 --> 0.018306).  Saving model ...
+Training step : Epoch : [134/500] [0/130], Loss : 0.01952596753835678, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7186510428272501
+Validation step : Epoch : [134/500] [0/23], Loss : 0.01819760724902153
+Validation Spearman correlation = 0.7692793338355592
+Validation loss decreased (0.018306 --> 0.018299).  Saving model ...
+Training step : Epoch : [135/500] [0/130], Loss : 0.01894085854291916, Learning rate : 0.0001
+Training Spearman correlation = 0.7180853162546493
+Validation step : Epoch : [135/500] [0/23], Loss : 0.018297437578439713
+Validation Spearman correlation = 0.769086653189309
+Validation loss decreased (0.018299 --> 0.018296).  Saving model ...
+Training step : Epoch : [136/500] [0/130], Loss : 0.020629795268177986, Learning rate : 0.02505
+Training Spearman correlation = 0.7150807879016421
+Validation step : Epoch : [136/500] [0/23], Loss : 0.018182728439569473
+Validation Spearman correlation = 0.7702525592146653
+Validation loss decreased (0.018296 --> 0.018293).  Saving model ...
+Training step : Epoch : [137/500] [0/130], Loss : 0.02076169289648533, Learning rate : 0.05
+Training Spearman correlation = 0.7163235114283582
+Validation step : Epoch : [137/500] [0/23], Loss : 0.01848197728395462
+Validation Spearman correlation = 0.7697861511143171
+Validation loss decreased (0.018293 --> 0.018280).  Saving model ...
+Training step : Epoch : [138/500] [0/130], Loss : 0.020025115460157394, Learning rate : 0.037525
+Training Spearman correlation = 0.7166334938327703
+Validation step : Epoch : [138/500] [0/23], Loss : 0.018533095717430115
+Validation Spearman correlation = 0.7725977700459671
+Validation loss decreased (0.018280 --> 0.018267).  Saving model ...
+Training step : Epoch : [139/500] [0/130], Loss : 0.021689534187316895, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7210796806697548
+Validation step : Epoch : [139/500] [0/23], Loss : 0.018172752112150192
+Validation Spearman correlation = 0.7709136058931799
+Validation loss decreased (0.018267 --> 0.018265).  Saving model ...
+Training step : Epoch : [140/500] [0/130], Loss : 0.018176300451159477, Learning rate : 0.0001
+Training Spearman correlation = 0.7227733780782534
+Validation step : Epoch : [140/500] [0/23], Loss : 0.018222171813249588
+Validation Spearman correlation = 0.7714319167984762
+Validation loss decreased (0.018265 --> 0.018263).  Saving model ...
+Training step : Epoch : [141/500] [0/130], Loss : 0.01845189556479454, Learning rate : 0.02505
+Training Spearman correlation = 0.7181161209763884
+Validation step : Epoch : [141/500] [0/23], Loss : 0.018198877573013306
+Validation Spearman correlation = 0.772046133895647
+Validation loss decreased (0.018263 --> 0.018202).  Saving model ...
+Training step : Epoch : [142/500] [0/130], Loss : 0.018856065347790718, Learning rate : 0.05
+Training Spearman correlation = 0.7135237120560282
+Validation step : Epoch : [142/500] [0/23], Loss : 0.018324749544262886
+Validation Spearman correlation = 0.7712082155304689
+Validation loss decreased (0.018202 --> 0.018141).  Saving model ...
+Training step : Epoch : [143/500] [0/130], Loss : 0.018696213141083717, Learning rate : 0.037525
+Training Spearman correlation = 0.7208532178852026
+Validation step : Epoch : [143/500] [0/23], Loss : 0.017903495579957962
+Validation Spearman correlation = 0.7744547725279217
+Validation loss decreased (0.018141 --> 0.018114).  Saving model ...
+Training step : Epoch : [144/500] [0/130], Loss : 0.01955827698111534, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7207213609953993
+Validation step : Epoch : [144/500] [0/23], Loss : 0.018058953806757927
+Validation Spearman correlation = 0.7722636169932725
+Validation loss decreased (0.018114 --> 0.018087).  Saving model ...
+Training step : Epoch : [145/500] [0/130], Loss : 0.02070753276348114, Learning rate : 0.0001
+Training Spearman correlation = 0.7226245425833212
+Validation step : Epoch : [145/500] [0/23], Loss : 0.018001370131969452
+Validation Spearman correlation = 0.7731460883317528
+Validation loss decreased (0.018087 --> 0.018056).  Saving model ...
+Training step : Epoch : [146/500] [0/130], Loss : 0.01935708522796631, Learning rate : 0.02505
+Training Spearman correlation = 0.7228455524340618
+Validation step : Epoch : [146/500] [0/23], Loss : 0.017848804593086243
+Validation Spearman correlation = 0.7712683574761139
+Validation loss decreased (0.018056 --> 0.018025).  Saving model ...
+Training step : Epoch : [147/500] [0/130], Loss : 0.020686957985162735, Learning rate : 0.05
+Training Spearman correlation = 0.7191146896350397
+Validation step : Epoch : [147/500] [0/23], Loss : 0.01764771156013012
+Validation Spearman correlation = 0.7754489333019684
+Validation loss decreased (0.018025 --> 0.017995).  Saving model ...
+Training step : Epoch : [148/500] [0/130], Loss : 0.017510991543531418, Learning rate : 0.037525
+Training Spearman correlation = 0.7189695579846761
+Validation step : Epoch : [148/500] [0/23], Loss : 0.017969494685530663
+Validation Spearman correlation = 0.7744603540921833
+Validation loss decreased (0.017995 --> 0.017964).  Saving model ...
+Training step : Epoch : [149/500] [0/130], Loss : 0.01854299008846283, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7232832735868288
+Validation step : Epoch : [149/500] [0/23], Loss : 0.017779311165213585
+Validation Spearman correlation = 0.7745277856348898
+Validation loss decreased (0.017964 --> 0.017920).  Saving model ...
+Training step : Epoch : [150/500] [0/130], Loss : 0.017310310155153275, Learning rate : 0.0001
+Training Spearman correlation = 0.7287662975587569
+Validation step : Epoch : [150/500] [0/23], Loss : 0.017841026186943054
+Validation Spearman correlation = 0.7744892064950799
+Validation loss decreased (0.017920 --> 0.017876).  Saving model ...
+Training step : Epoch : [151/500] [0/130], Loss : 0.019018499180674553, Learning rate : 0.02505
+Training Spearman correlation = 0.7258260448095273
+Validation step : Epoch : [151/500] [0/23], Loss : 0.01787148229777813
+Validation Spearman correlation = 0.774597715295217
+Validation loss decreased (0.017876 --> 0.017859).  Saving model ...
+Training step : Epoch : [152/500] [0/130], Loss : 0.016947612166404724, Learning rate : 0.05
+Training Spearman correlation = 0.7180781101985926
+Validation step : Epoch : [152/500] [0/23], Loss : 0.018238022923469543
+Validation Spearman correlation = 0.7728967295861836
+Validation loss decreased (0.017859 --> 0.017842).  Saving model ...
+Training step : Epoch : [153/500] [0/130], Loss : 0.019557759165763855, Learning rate : 0.037525
+Training Spearman correlation = 0.7205192664247694
+Validation step : Epoch : [153/500] [0/23], Loss : 0.017944103106856346
+Validation Spearman correlation = 0.7773938494924609
+Validation loss decreased (0.017842 --> 0.017840).  Saving model ...
+Training step : Epoch : [154/500] [0/130], Loss : 0.018512394279241562, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7262076625869619
+Validation step : Epoch : [154/500] [0/23], Loss : 0.01783604361116886
+Validation Spearman correlation = 0.7762589548274974
+Validation loss decreased (0.017840 --> 0.017838).  Saving model ...
+Training step : Epoch : [155/500] [0/130], Loss : 0.017549796029925346, Learning rate : 0.0001
+Training Spearman correlation = 0.7246696029634336
+Validation step : Epoch : [155/500] [0/23], Loss : 0.017906121909618378
+Validation Spearman correlation = 0.7760811979759766
+Validation loss decreased (0.017838 --> 0.017802).  Saving model ...
+Training step : Epoch : [156/500] [0/130], Loss : 0.018060006201267242, Learning rate : 0.02505
+Training Spearman correlation = 0.7299983483847925
+Validation step : Epoch : [156/500] [0/23], Loss : 0.01794491708278656
+Validation Spearman correlation = 0.7764324265065623
+Validation loss decreased (0.017802 --> 0.017766).  Saving model ...
+Training step : Epoch : [157/500] [0/130], Loss : 0.017551198601722717, Learning rate : 0.05
+Training Spearman correlation = 0.7229992261086982
+Validation step : Epoch : [157/500] [0/23], Loss : 0.017791535705327988
+Validation Spearman correlation = 0.7747843659974467
+Validation loss decreased (0.017766 --> 0.017760).  Saving model ...
+Training step : Epoch : [158/500] [0/130], Loss : 0.016706883907318115, Learning rate : 0.037525
+Training Spearman correlation = 0.7220227257672486
+Validation step : Epoch : [158/500] [0/23], Loss : 0.018319720402359962
+Validation Spearman correlation = 0.7758111227923822
+Validation loss decreased (0.017760 --> 0.017754).  Saving model ...
+Training step : Epoch : [159/500] [0/130], Loss : 0.017087548971176147, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7271063653376006
+Validation step : Epoch : [159/500] [0/23], Loss : 0.017674889415502548
+Validation Spearman correlation = 0.7765252313608277
+Validation loss decreased (0.017754 --> 0.017714).  Saving model ...
+Training step : Epoch : [160/500] [0/130], Loss : 0.018706969916820526, Learning rate : 0.0001
+Training Spearman correlation = 0.7296345058053172
+Validation step : Epoch : [160/500] [0/23], Loss : 0.017699502408504486
+Validation Spearman correlation = 0.7763940456015754
+Validation loss decreased (0.017714 --> 0.017675).  Saving model ...
+Training step : Epoch : [161/500] [0/130], Loss : 0.018067361786961555, Learning rate : 0.02505
+Training Spearman correlation = 0.7295437458230705
+Validation step : Epoch : [161/500] [0/23], Loss : 0.01744818314909935
+Validation Spearman correlation = 0.779366147341744
+Validation loss decreased (0.017675 --> 0.017643).  Saving model ...
+Training step : Epoch : [162/500] [0/130], Loss : 0.017515048384666443, Learning rate : 0.05
+Training Spearman correlation = 0.7215255645243996
+Validation step : Epoch : [162/500] [0/23], Loss : 0.01749598979949951
+Validation Spearman correlation = 0.7779491990363675
+Validation loss decreased (0.017643 --> 0.017611).  Saving model ...
+Training step : Epoch : [163/500] [0/130], Loss : 0.017921194434165955, Learning rate : 0.037525
+Training Spearman correlation = 0.7235638637896966
+Validation step : Epoch : [163/500] [0/23], Loss : 0.018063809722661972
+Validation Spearman correlation = 0.7795328616246641
+Validation loss decreased (0.017611 --> 0.017601).  Saving model ...
+Training step : Epoch : [164/500] [0/130], Loss : 0.018776047974824905, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7274250384312267
+Validation step : Epoch : [164/500] [0/23], Loss : 0.017697345465421677
+Validation Spearman correlation = 0.7763681196639745
+Validation loss decreased (0.017601 --> 0.017592).  Saving model ...
+Training step : Epoch : [165/500] [0/130], Loss : 0.021400734782218933, Learning rate : 0.0001
+Training Spearman correlation = 0.7319157871921386
+Validation step : Epoch : [165/500] [0/23], Loss : 0.017685040831565857
+Validation Spearman correlation = 0.7769390842682405
+Validation loss decreased (0.017592 --> 0.017579).  Saving model ...
+Training step : Epoch : [166/500] [0/130], Loss : 0.01898045837879181, Learning rate : 0.02505
+Training Spearman correlation = 0.7294295289524347
+Validation step : Epoch : [166/500] [0/23], Loss : 0.0175674669444561
+Validation Spearman correlation = 0.7783064241869145
+Validation loss decreased (0.017579 --> 0.017566).  Saving model ...
+Training step : Epoch : [167/500] [0/130], Loss : 0.018729906529188156, Learning rate : 0.05
+Training Spearman correlation = 0.7271004757966237
+Validation step : Epoch : [167/500] [0/23], Loss : 0.017424022778868675
+Validation Spearman correlation = 0.7767329535784506
+Validation loss decreased (0.017566 --> 0.017543).  Saving model ...
+Training step : Epoch : [168/500] [0/130], Loss : 0.019805315881967545, Learning rate : 0.037525
+Training Spearman correlation = 0.7263253960904188
+Validation step : Epoch : [168/500] [0/23], Loss : 0.01792951673269272
+Validation Spearman correlation = 0.7786119113612239
+Validation loss decreased (0.017543 --> 0.017520).  Saving model ...
+Training step : Epoch : [169/500] [0/130], Loss : 0.017269881442189217, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7298378723716606
+Validation step : Epoch : [169/500] [0/23], Loss : 0.017580322921276093
+Validation Spearman correlation = 0.7789610935553906
+Validation loss decreased (0.017520 --> 0.017513).  Saving model ...
+Training step : Epoch : [170/500] [0/130], Loss : 0.019136158749461174, Learning rate : 0.0001
+Training Spearman correlation = 0.7334096699299415
+Validation step : Epoch : [170/500] [0/23], Loss : 0.017571698874235153
+Validation Spearman correlation = 0.7792858765456178
+Validation loss decreased (0.017513 --> 0.017506).  Saving model ...
+Training step : Epoch : [171/500] [0/130], Loss : 0.0194376390427351, Learning rate : 0.02505
+Training Spearman correlation = 0.7301620839404153
+Validation step : Epoch : [171/500] [0/23], Loss : 0.017505133524537086
+Validation Spearman correlation = 0.7812820923771846
+Validation loss decreased (0.017506 --> 0.017447).  Saving model ...
+Training step : Epoch : [172/500] [0/130], Loss : 0.01746220514178276, Learning rate : 0.05
+Training Spearman correlation = 0.7270764732889963
+Validation step : Epoch : [172/500] [0/23], Loss : 0.0176774300634861
+Validation Spearman correlation = 0.780907254451346
+Validation loss decreased (0.017447 --> 0.017388).  Saving model ...
+Training step : Epoch : [173/500] [0/130], Loss : 0.01661457121372223, Learning rate : 0.037525
+Training Spearman correlation = 0.7264828816589809
+Validation step : Epoch : [173/500] [0/23], Loss : 0.017678191885352135
+Validation Spearman correlation = 0.7813466020268173
+Validation loss decreased (0.017388 --> 0.017386).  Saving model ...
+Training step : Epoch : [174/500] [0/130], Loss : 0.01753624528646469, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.729529870447441
+Validation step : Epoch : [174/500] [0/23], Loss : 0.01719297468662262
+Validation Spearman correlation = 0.7811169234681858
+Validation loss decreased (0.017386 --> 0.017383).  Saving model ...
+Training step : Epoch : [175/500] [0/130], Loss : 0.017180917784571648, Learning rate : 0.0001
+Training Spearman correlation = 0.7361041677846526
+Validation step : Epoch : [175/500] [0/23], Loss : 0.017200103029608727
+Validation Spearman correlation = 0.7808970940169315
+Validation loss decreased (0.017383 --> 0.017378).  Saving model ...
+Training step : Epoch : [176/500] [0/130], Loss : 0.016649538651108742, Learning rate : 0.02505
+Training Spearman correlation = 0.7316078025381875
+Validation step : Epoch : [176/500] [0/23], Loss : 0.01765092834830284
+Validation Spearman correlation = 0.7789815897041414
+Validation loss decreased (0.017378 --> 0.017374).  Saving model ...
+Training step : Epoch : [177/500] [0/130], Loss : 0.019889280200004578, Learning rate : 0.05
+Training Spearman correlation = 0.7276488629781058
+Validation step : Epoch : [177/500] [0/23], Loss : 0.01681537739932537
+Validation Spearman correlation = 0.7811456333008183
+Validation loss decreased (0.017374 --> 0.017364).  Saving model ...
+Training step : Epoch : [178/500] [0/130], Loss : 0.01791381649672985, Learning rate : 0.037525
+Training Spearman correlation = 0.7326458254028166
+Validation step : Epoch : [178/500] [0/23], Loss : 0.017078090459108353
+Validation Spearman correlation = 0.778749747030375
+Validation loss decreased (0.017364 --> 0.017353).  Saving model ...
+Training step : Epoch : [179/500] [0/130], Loss : 0.01566442847251892, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7328348443343401
+Validation step : Epoch : [179/500] [0/23], Loss : 0.01697913184762001
+Validation Spearman correlation = 0.7799360575099344
+Validation loss decreased (0.017353 --> 0.017351).  Saving model ...
+Training step : Epoch : [180/500] [0/130], Loss : 0.01890457794070244, Learning rate : 0.0001
+Training Spearman correlation = 0.7325605114837105
+Validation step : Epoch : [180/500] [0/23], Loss : 0.01701853796839714
+Validation Spearman correlation = 0.7809302676451763
+Validation loss decreased (0.017351 --> 0.017349).  Saving model ...
+Training step : Epoch : [181/500] [0/130], Loss : 0.017667947337031364, Learning rate : 0.02505
+Training Spearman correlation = 0.7316722423685492
+Validation step : Epoch : [181/500] [0/23], Loss : 0.017380263656377792
+Validation Spearman correlation = 0.7821870662192456
+Validation loss decreased (0.017349 --> 0.017333).  Saving model ...
+Training step : Epoch : [182/500] [0/130], Loss : 0.01713009923696518, Learning rate : 0.05
+Training Spearman correlation = 0.7280073365612878
+Validation step : Epoch : [182/500] [0/23], Loss : 0.01704811491072178
+Validation Spearman correlation = 0.7811030008361238
+Validation loss decreased (0.017333 --> 0.017317).  Saving model ...
+Training step : Epoch : [183/500] [0/130], Loss : 0.019653543829917908, Learning rate : 0.037525
+Training Spearman correlation = 0.7311160668901017
+Validation step : Epoch : [183/500] [0/23], Loss : 0.016920221969485283
+Validation Spearman correlation = 0.7842235973202976
+Validation loss decreased (0.017317 --> 0.017316).  Saving model ...
+Training step : Epoch : [184/500] [0/130], Loss : 0.016681216657161713, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7349275854823593
+Validation step : Epoch : [184/500] [0/23], Loss : 0.016942661255598068
+Validation Spearman correlation = 0.7813371684405723
+Validation loss decreased (0.017316 --> 0.017314).  Saving model ...
+Training step : Epoch : [185/500] [0/130], Loss : 0.01945006474852562, Learning rate : 0.0001
+Training Spearman correlation = 0.7380984383751089
+Validation step : Epoch : [185/500] [0/23], Loss : 0.017059272155165672
+Validation Spearman correlation = 0.7829381608633239
+Validation loss decreased (0.017314 --> 0.017307).  Saving model ...
+Training step : Epoch : [186/500] [0/130], Loss : 0.017841294407844543, Learning rate : 0.02505
+Training Spearman correlation = 0.7344867576723443
+Validation step : Epoch : [186/500] [0/23], Loss : 0.01708604022860527
+Validation Spearman correlation = 0.7831061278413606
+Validation loss decreased (0.017307 --> 0.017299).  Saving model ...
+Training step : Epoch : [187/500] [0/130], Loss : 0.017897434532642365, Learning rate : 0.05
+Training Spearman correlation = 0.73230323938207
+Validation step : Epoch : [187/500] [0/23], Loss : 0.0168268084526062
+Validation Spearman correlation = 0.7775257605436929
+Validation loss decreased (0.017299 --> 0.017287).  Saving model ...
+Training step : Epoch : [188/500] [0/130], Loss : 0.017643187195062637, Learning rate : 0.037525
+Training Spearman correlation = 0.7312444585551584
+Validation step : Epoch : [188/500] [0/23], Loss : 0.0168558731675148
+Validation Spearman correlation = 0.7796050553453218
+Validation loss decreased (0.017287 --> 0.017275).  Saving model ...
+Training step : Epoch : [189/500] [0/130], Loss : 0.016795016825199127, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.736637309826378
+Validation step : Epoch : [189/500] [0/23], Loss : 0.016933633014559746
+Validation Spearman correlation = 0.7815307161258291
+Validation loss decreased (0.017275 --> 0.017274).  Saving model ...
+Training step : Epoch : [190/500] [0/130], Loss : 0.018416043370962143, Learning rate : 0.0001
+Training Spearman correlation = 0.7399142463411237
+Validation step : Epoch : [190/500] [0/23], Loss : 0.016982287168502808
+Validation Spearman correlation = 0.782620285486347
+Validation loss decreased (0.017274 --> 0.017274).  Saving model ...
+Training step : Epoch : [191/500] [0/130], Loss : 0.017425578087568283, Learning rate : 0.02505
+Training Spearman correlation = 0.7373309586656349
+Validation step : Epoch : [191/500] [0/23], Loss : 0.017430951818823814
+Validation Spearman correlation = 0.7835212617022079
+Validation loss decreased (0.017274 --> 0.017257).  Saving model ...
+Training step : Epoch : [192/500] [0/130], Loss : 0.019222255796194077, Learning rate : 0.05
+Training Spearman correlation = 0.7310233382992655
+Validation step : Epoch : [192/500] [0/23], Loss : 0.017043860629200935
+Validation Spearman correlation = 0.7832464056564704
+Validation loss decreased (0.017257 --> 0.017241).  Saving model ...
+Training step : Epoch : [193/500] [0/130], Loss : 0.017331799492239952, Learning rate : 0.037525
+Training Spearman correlation = 0.735297412600674
+Validation step : Epoch : [193/500] [0/23], Loss : 0.01680206134915352
+Validation Spearman correlation = 0.7845718920320244
+Validation loss decreased (0.017241 --> 0.017240).  Saving model ...
+Training step : Epoch : [194/500] [0/130], Loss : 0.017195899039506912, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7373325207371836
+Validation step : Epoch : [194/500] [0/23], Loss : 0.016645895317196846
+Validation Spearman correlation = 0.7847474936160431
+Validation loss decreased (0.017240 --> 0.017240).  Saving model ...
+Training step : Epoch : [195/500] [0/130], Loss : 0.01753763109445572, Learning rate : 0.0001
+Training Spearman correlation = 0.7403497534500918
+Validation step : Epoch : [195/500] [0/23], Loss : 0.016629211604595184
+Validation Spearman correlation = 0.78505673365878
+Validation loss decreased (0.017240 --> 0.017226).  Saving model ...
+Training step : Epoch : [196/500] [0/130], Loss : 0.016205623745918274, Learning rate : 0.02505
+Training Spearman correlation = 0.73960403874954
+Validation step : Epoch : [196/500] [0/23], Loss : 0.016752485185861588
+Validation Spearman correlation = 0.7874141164417223
+Validation loss decreased (0.017226 --> 0.017211).  Saving model ...
+Training step : Epoch : [197/500] [0/130], Loss : 0.01778225041925907, Learning rate : 0.05
+Training Spearman correlation = 0.7325828695570639
+Validation step : Epoch : [197/500] [0/23], Loss : 0.016757890582084656
+Validation Spearman correlation = 0.7854602841788858
+Validation loss decreased (0.017211 --> 0.017209).  Saving model ...
+Training step : Epoch : [198/500] [0/130], Loss : 0.018969986587762833, Learning rate : 0.037525
+Training Spearman correlation = 0.7363741781774522
+Validation step : Epoch : [198/500] [0/23], Loss : 0.017275845631957054
+Validation Spearman correlation = 0.787458864440517
+Validation loss decreased (0.017209 --> 0.017207).  Saving model ...
+Training step : Epoch : [199/500] [0/130], Loss : 0.01692059263586998, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7402772003680015
+Validation step : Epoch : [199/500] [0/23], Loss : 0.01669471152126789
+Validation Spearman correlation = 0.7853733712865887
+Validation loss decreased (0.017207 --> 0.017205).  Saving model ...
+Training step : Epoch : [200/500] [0/130], Loss : 0.017127344384789467, Learning rate : 0.0001
+Training Spearman correlation = 0.74369106900179
+Validation step : Epoch : [200/500] [0/23], Loss : 0.01674495078623295
+Validation Spearman correlation = 0.7860924020515409
+Validation loss decreased (0.017205 --> 0.017203).  Saving model ...
+Training step : Epoch : [201/500] [0/130], Loss : 0.016953378915786743, Learning rate : 0.02505
+Training Spearman correlation = 0.7399346137511146
+Validation step : Epoch : [201/500] [0/23], Loss : 0.01653892733156681
+Validation Spearman correlation = 0.7853935029408847
+Validation loss decreased (0.017203 --> 0.017195).  Saving model ...
+Training step : Epoch : [202/500] [0/130], Loss : 0.01778019405901432, Learning rate : 0.05
+Training Spearman correlation = 0.7356427843166621
+Validation step : Epoch : [202/500] [0/23], Loss : 0.016852468252182007
+Validation Spearman correlation = 0.784344204789386
+Validation loss decreased (0.017195 --> 0.017187).  Saving model ...
+Training step : Epoch : [203/500] [0/130], Loss : 0.017876187339425087, Learning rate : 0.037525
+Training Spearman correlation = 0.739143205173274
+Validation step : Epoch : [203/500] [0/23], Loss : 0.01681983843445778
+Validation Spearman correlation = 0.7895654823349538
+Validation loss decreased (0.017187 --> 0.017150).  Saving model ...
+Training step : Epoch : [204/500] [0/130], Loss : 0.017084183171391487, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7422495483599559
+Validation step : Epoch : [204/500] [0/23], Loss : 0.016551950946450233
+Validation Spearman correlation = 0.7883194315866733
+Validation loss decreased (0.017150 --> 0.017114).  Saving model ...
+Training step : Epoch : [205/500] [0/130], Loss : 0.018925273790955544, Learning rate : 0.0001
+Training Spearman correlation = 0.7412412691313417
+Validation step : Epoch : [205/500] [0/23], Loss : 0.01648719049990177
+Validation Spearman correlation = 0.7878807298874825
+Validation loss decreased (0.017114 --> 0.017043).  Saving model ...
+Training step : Epoch : [206/500] [0/130], Loss : 0.0169258750975132, Learning rate : 0.02505
+Training Spearman correlation = 0.738549136172
+Validation step : Epoch : [206/500] [0/23], Loss : 0.01688217930495739
+Validation Spearman correlation = 0.787400289920227
+Validation loss decreased (0.017043 --> 0.016972).  Saving model ...
+Training step : Epoch : [207/500] [0/130], Loss : 0.018747802823781967, Learning rate : 0.05
+Training Spearman correlation = 0.7347461174125868
+Validation step : Epoch : [207/500] [0/23], Loss : 0.017299648374319077
+Validation Spearman correlation = 0.7876907905910304
+Validation loss decreased (0.016972 --> 0.016954).  Saving model ...
+Training step : Epoch : [208/500] [0/130], Loss : 0.01926165446639061, Learning rate : 0.037525
+Training Spearman correlation = 0.7381873200713757
+Validation step : Epoch : [208/500] [0/23], Loss : 0.017163902521133423
+Validation Spearman correlation = 0.7854603795306438
+Validation loss decreased (0.016954 --> 0.016935).  Saving model ...
+Training step : Epoch : [209/500] [0/130], Loss : 0.0159187912940979, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7408869608106691
+Validation step : Epoch : [209/500] [0/23], Loss : 0.016721123829483986
+Validation Spearman correlation = 0.7859505056616127
+Validation loss decreased (0.016935 --> 0.016934).  Saving model ...
+Training step : Epoch : [210/500] [0/130], Loss : 0.019722625613212585, Learning rate : 0.0001
+Training Spearman correlation = 0.7440526509345768
+Validation step : Epoch : [210/500] [0/23], Loss : 0.016735035926103592
+Validation Spearman correlation = 0.7871518226615047
+Validation loss decreased (0.016934 --> 0.016933).  Saving model ...
+Training step : Epoch : [211/500] [0/130], Loss : 0.016485273838043213, Learning rate : 0.02505
+Training Spearman correlation = 0.7410287828827415
+Validation step : Epoch : [211/500] [0/23], Loss : 0.01628565602004528
+Validation Spearman correlation = 0.7868090996293179
+Validation loss decreased (0.016933 --> 0.016912).  Saving model ...
+Training step : Epoch : [212/500] [0/130], Loss : 0.017386723309755325, Learning rate : 0.05
+Training Spearman correlation = 0.738042424790449
+Validation step : Epoch : [212/500] [0/23], Loss : 0.016961222514510155
+Validation Spearman correlation = 0.7878155320300381
+Validation loss decreased (0.016912 --> 0.016891).  Saving model ...
+Training step : Epoch : [213/500] [0/130], Loss : 0.020405389368534088, Learning rate : 0.037525
+Training Spearman correlation = 0.7385280653527302
+Validation step : Epoch : [213/500] [0/23], Loss : 0.017034748569130898
+Validation Spearman correlation = 0.7884352772447276
+Validation loss decreased (0.016891 --> 0.016883).  Saving model ...
+Training step : Epoch : [214/500] [0/130], Loss : 0.018515318632125854, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7430680346742967
+Validation step : Epoch : [214/500] [0/23], Loss : 0.0165217537432909
+Validation Spearman correlation = 0.7873137244091325
+Validation loss decreased (0.016883 --> 0.016875).  Saving model ...
+Training step : Epoch : [215/500] [0/130], Loss : 0.019111981615424156, Learning rate : 0.0001
+Training Spearman correlation = 0.7448178923616869
+Validation step : Epoch : [215/500] [0/23], Loss : 0.01652548462152481
+Validation Spearman correlation = 0.7885488342486177
+Validation loss decreased (0.016875 --> 0.016864).  Saving model ...
+Training step : Epoch : [216/500] [0/130], Loss : 0.014799298718571663, Learning rate : 0.02505
+Training Spearman correlation = 0.7430506553412944
+Validation step : Epoch : [216/500] [0/23], Loss : 0.016603533178567886
+Validation Spearman correlation = 0.791719821262647
+Validation loss decreased (0.016864 --> 0.016852).  Saving model ...
+Training step : Epoch : [217/500] [0/130], Loss : 0.01695432886481285, Learning rate : 0.05
+Training Spearman correlation = 0.7367589120139382
+Validation step : Epoch : [217/500] [0/23], Loss : 0.015884429216384888
+Validation Spearman correlation = 0.7883623181855545
+Validation loss decreased (0.016852 --> 0.016845).  Saving model ...
+Training step : Epoch : [218/500] [0/130], Loss : 0.016919558867812157, Learning rate : 0.037525
+Training Spearman correlation = 0.740081527077417
+Validation step : Epoch : [218/500] [0/23], Loss : 0.01620478928089142
+Validation Spearman correlation = 0.791719478248735
+Validation loss decreased (0.016845 --> 0.016838).  Saving model ...
+Training step : Epoch : [219/500] [0/130], Loss : 0.017865445464849472, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.743407445103187
+Validation step : Epoch : [219/500] [0/23], Loss : 0.015984417870640755
+Validation Spearman correlation = 0.788941594036384
+Validation loss decreased (0.016838 --> 0.016829).  Saving model ...
+Training step : Epoch : [220/500] [0/130], Loss : 0.017792722210288048, Learning rate : 0.0001
+Training Spearman correlation = 0.7480404985354686
+Validation step : Epoch : [220/500] [0/23], Loss : 0.016036082059144974
+Validation Spearman correlation = 0.7910910483731839
+Validation loss decreased (0.016829 --> 0.016820).  Saving model ...
+Training step : Epoch : [221/500] [0/130], Loss : 0.015069187618792057, Learning rate : 0.02505
+Training Spearman correlation = 0.7444547969536288
+Validation step : Epoch : [221/500] [0/23], Loss : 0.0162943284958601
+Validation Spearman correlation = 0.792258797744827
+Validation loss decreased (0.016820 --> 0.016799).  Saving model ...
+Training step : Epoch : [222/500] [0/130], Loss : 0.015939291566610336, Learning rate : 0.05
+Training Spearman correlation = 0.7372999008516148
+Validation step : Epoch : [222/500] [0/23], Loss : 0.016903012990951538
+Validation Spearman correlation = 0.7866966263258146
+Validation loss decreased (0.016799 --> 0.016779).  Saving model ...
+Training step : Epoch : [223/500] [0/130], Loss : 0.0184173621237278, Learning rate : 0.037525
+Training Spearman correlation = 0.7431899984453414
+Validation step : Epoch : [223/500] [0/23], Loss : 0.01633644662797451
+Validation Spearman correlation = 0.7847962853758367
+Validation loss decreased (0.016779 --> 0.016770).  Saving model ...
+Training step : Epoch : [224/500] [0/130], Loss : 0.01658322848379612, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7446167751577614
+Validation step : Epoch : [224/500] [0/23], Loss : 0.01610412821173668
+Validation Spearman correlation = 0.7906524446828123
+Validation loss decreased (0.016770 --> 0.016761).  Saving model ...
+Training step : Epoch : [225/500] [0/130], Loss : 0.015405545011162758, Learning rate : 0.0001
+Training Spearman correlation = 0.7448622649386807
+Validation step : Epoch : [225/500] [0/23], Loss : 0.016185838729143143
+Validation Spearman correlation = 0.7903734371909283
+Validation loss decreased (0.016761 --> 0.016751).  Saving model ...
+Training step : Epoch : [226/500] [0/130], Loss : 0.01691330596804619, Learning rate : 0.02505
+Training Spearman correlation = 0.7421364400204509
+Validation step : Epoch : [226/500] [0/23], Loss : 0.016196684911847115
+Validation Spearman correlation = 0.7927216633725337
+Validation loss decreased (0.016751 --> 0.016741).  Saving model ...
+Training step : Epoch : [227/500] [0/130], Loss : 0.014482923783361912, Learning rate : 0.05
+Training Spearman correlation = 0.7387875645054768
+Validation step : Epoch : [227/500] [0/23], Loss : 0.01712273620069027
+Validation Spearman correlation = 0.7912634397424451
+Validation loss decreased (0.016741 --> 0.016733).  Saving model ...
+Training step : Epoch : [228/500] [0/130], Loss : 0.017773868516087532, Learning rate : 0.037525
+Training Spearman correlation = 0.7398850561868088
+Validation step : Epoch : [228/500] [0/23], Loss : 0.016542306169867516
+Validation Spearman correlation = 0.7914224281941217
+Validation loss decreased (0.016733 --> 0.016724).  Saving model ...
+Training step : Epoch : [229/500] [0/130], Loss : 0.017913304269313812, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7451419241294702
+Validation step : Epoch : [229/500] [0/23], Loss : 0.01599900797009468
+Validation Spearman correlation = 0.7907073767190548
+Validation loss decreased (0.016724 --> 0.016708).  Saving model ...
+Training step : Epoch : [230/500] [0/130], Loss : 0.018408944830298424, Learning rate : 0.0001
+Training Spearman correlation = 0.7473615312661814
+Validation step : Epoch : [230/500] [0/23], Loss : 0.015993967652320862
+Validation Spearman correlation = 0.7915020161814137
+Validation loss decreased (0.016708 --> 0.016692).  Saving model ...
+Training step : Epoch : [231/500] [0/130], Loss : 0.01458012405782938, Learning rate : 0.02505
+Training Spearman correlation = 0.7478223535476923
+Validation step : Epoch : [231/500] [0/23], Loss : 0.016373449936509132
+Validation Spearman correlation = 0.7906891055642258
+Validation loss decreased (0.016692 --> 0.016691).  Saving model ...
+Training step : Epoch : [232/500] [0/130], Loss : 0.01613866165280342, Learning rate : 0.05
+Training Spearman correlation = 0.7399899687547644
+Validation step : Epoch : [232/500] [0/23], Loss : 0.016691483557224274
+Validation Spearman correlation = 0.7913878655982165
+Validation loss decreased (0.016691 --> 0.016690).  Saving model ...
+Training step : Epoch : [233/500] [0/130], Loss : 0.01810738630592823, Learning rate : 0.037525
+Training Spearman correlation = 0.7435829440186638
+Validation step : Epoch : [233/500] [0/23], Loss : 0.016549386084079742
+Validation Spearman correlation = 0.7910702167004684
+Validation loss decreased (0.016690 --> 0.016678).  Saving model ...
+Training step : Epoch : [234/500] [0/130], Loss : 0.01686292141675949, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7478822210166198
+Validation step : Epoch : [234/500] [0/23], Loss : 0.016077756881713867
+Validation Spearman correlation = 0.7912936408484632
+Validation loss decreased (0.016678 --> 0.016667).  Saving model ...
+Training step : Epoch : [235/500] [0/130], Loss : 0.017532240599393845, Learning rate : 0.0001
+Training Spearman correlation = 0.7509045129453957
+Validation step : Epoch : [235/500] [0/23], Loss : 0.01606941595673561
+Validation Spearman correlation = 0.7916909395205864
+Validation loss decreased (0.016667 --> 0.016666).  Saving model ...
+Training step : Epoch : [236/500] [0/130], Loss : 0.018779154866933823, Learning rate : 0.02505
+Training Spearman correlation = 0.747734809461299
+Validation step : Epoch : [236/500] [0/23], Loss : 0.016880914568901062
+Validation Spearman correlation = 0.7922517498744176
+Validation loss decreased (0.016666 --> 0.016666).  Saving model ...
+Training step : Epoch : [237/500] [0/130], Loss : 0.016602803021669388, Learning rate : 0.05
+Training Spearman correlation = 0.7416600771070117
+Validation step : Epoch : [237/500] [0/23], Loss : 0.016894150525331497
+Validation Spearman correlation = 0.7839303920931128
+Validation loss decreased (0.016666 --> 0.016664).  Saving model ...
+Training step : Epoch : [238/500] [0/130], Loss : 0.01800813153386116, Learning rate : 0.037525
+Training Spearman correlation = 0.745053238308898
+Validation step : Epoch : [238/500] [0/23], Loss : 0.017329096794128418
+Validation Spearman correlation = 0.7860691411428101
+Validation loss decreased (0.016664 --> 0.016663).  Saving model ...
+Training step : Epoch : [239/500] [0/130], Loss : 0.01671236753463745, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7480338108628811
+Validation step : Epoch : [239/500] [0/23], Loss : 0.015969984233379364
+Validation Spearman correlation = 0.7939024518386537
+Validation loss decreased (0.016663 --> 0.016651).  Saving model ...
+Training step : Epoch : [240/500] [0/130], Loss : 0.01534753106534481, Learning rate : 0.0001
+Training Spearman correlation = 0.7491673330476832
+Validation step : Epoch : [240/500] [0/23], Loss : 0.016163622960448265
+Validation Spearman correlation = 0.7930995118672162
+Validation loss decreased (0.016651 --> 0.016640).  Saving model ...
+Training step : Epoch : [241/500] [0/130], Loss : 0.018620602786540985, Learning rate : 0.02505
+Training Spearman correlation = 0.7503841762978852
+Validation step : Epoch : [241/500] [0/23], Loss : 0.015804341062903404
+Validation Spearman correlation = 0.794978403545252
+Validation loss decreased (0.016640 --> 0.016593).  Saving model ...
+Training step : Epoch : [242/500] [0/130], Loss : 0.015864795073866844, Learning rate : 0.05
+Training Spearman correlation = 0.7433268337936711
+Validation step : Epoch : [242/500] [0/23], Loss : 0.017567045986652374
+Validation Spearman correlation = 0.7868742428424679
+Validation loss decreased (0.016593 --> 0.016546).  Saving model ...
+Training step : Epoch : [243/500] [0/130], Loss : 0.01761719584465027, Learning rate : 0.037525
+Training Spearman correlation = 0.7425546883829853
+Validation step : Epoch : [243/500] [0/23], Loss : 0.016678471118211746
+Validation Spearman correlation = 0.7906355665576167
+Validation loss decreased (0.016546 --> 0.016544).  Saving model ...
+Training step : Epoch : [244/500] [0/130], Loss : 0.018691813573241234, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.750811966685619
+Validation step : Epoch : [244/500] [0/23], Loss : 0.01601523533463478
+Validation Spearman correlation = 0.7904069625811384
+Validation loss decreased (0.016544 --> 0.016542).  Saving model ...
+Training step : Epoch : [245/500] [0/130], Loss : 0.015504005365073681, Learning rate : 0.0001
+Training Spearman correlation = 0.7544808189071651
+Validation step : Epoch : [245/500] [0/23], Loss : 0.01599063351750374
+Validation Spearman correlation = 0.791688422651681
+Validation loss decreased (0.016542 --> 0.016526).  Saving model ...
+Training step : Epoch : [246/500] [0/130], Loss : 0.015698695555329323, Learning rate : 0.02505
+Training Spearman correlation = 0.7481386014910217
+Validation step : Epoch : [246/500] [0/23], Loss : 0.016361258924007416
+Validation Spearman correlation = 0.7908999452085047
+Validation loss decreased (0.016526 --> 0.016510).  Saving model ...
+Training step : Epoch : [247/500] [0/130], Loss : 0.017631640657782555, Learning rate : 0.05
+Training Spearman correlation = 0.7422251216565976
+Validation step : Epoch : [247/500] [0/23], Loss : 0.017224183306097984
+Validation Spearman correlation = 0.7898226113422983
+Validation loss decreased (0.016510 --> 0.016509).  Saving model ...
+Training step : Epoch : [248/500] [0/130], Loss : 0.01703573204576969, Learning rate : 0.037525
+Training Spearman correlation = 0.7440564026524429
+Validation step : Epoch : [248/500] [0/23], Loss : 0.016255157068371773
+Validation Spearman correlation = 0.7929159281651574
+Validation loss decreased (0.016509 --> 0.016509).  Saving model ...
+Training step : Epoch : [249/500] [0/130], Loss : 0.018748445436358452, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.75200850894424
+Validation step : Epoch : [249/500] [0/23], Loss : 0.01593141257762909
+Validation Spearman correlation = 0.792619487832265
+Validation loss decreased (0.016509 --> 0.016499).  Saving model ...
+Training step : Epoch : [250/500] [0/130], Loss : 0.016316648572683334, Learning rate : 0.0001
+Training Spearman correlation = 0.7542330450266779
+Validation step : Epoch : [250/500] [0/23], Loss : 0.015914462506771088
+Validation Spearman correlation = 0.7943508361851954
+Validation loss decreased (0.016499 --> 0.016489).  Saving model ...
+Training step : Epoch : [251/500] [0/130], Loss : 0.015784721821546555, Learning rate : 0.02505
+Training Spearman correlation = 0.7516144318106702
+Validation step : Epoch : [251/500] [0/23], Loss : 0.01626340113580227
+Validation Spearman correlation = 0.7979931642340835
+Validation loss decreased (0.016489 --> 0.016487).  Saving model ...
+Training step : Epoch : [252/500] [0/130], Loss : 0.0169149711728096, Learning rate : 0.05
+Training Spearman correlation = 0.7452594823608472
+Validation step : Epoch : [252/500] [0/23], Loss : 0.016396578401327133
+Validation Spearman correlation = 0.7954590705346338
+Validation loss decreased (0.016487 --> 0.016485).  Saving model ...
+Training step : Epoch : [253/500] [0/130], Loss : 0.017325367778539658, Learning rate : 0.037525
+Training Spearman correlation = 0.7474300173888933
+Validation step : Epoch : [253/500] [0/23], Loss : 0.016211898997426033
+Validation Spearman correlation = 0.7903093042097148
+Validation loss decreased (0.016485 --> 0.016480).  Saving model ...
+Training step : Epoch : [254/500] [0/130], Loss : 0.01591365784406662, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7519590479241686
+Validation step : Epoch : [254/500] [0/23], Loss : 0.015855947509407997
+Validation Spearman correlation = 0.7946812539295258
+Validation loss decreased (0.016480 --> 0.016475).  Saving model ...
+Training step : Epoch : [255/500] [0/130], Loss : 0.017083067446947098, Learning rate : 0.0001
+Training Spearman correlation = 0.755215120949511
+Validation step : Epoch : [255/500] [0/23], Loss : 0.015871696174144745
+Validation Spearman correlation = 0.7934132123851
+Validation loss decreased (0.016475 --> 0.016468).  Saving model ...
+Training step : Epoch : [256/500] [0/130], Loss : 0.01580033265054226, Learning rate : 0.02505
+Training Spearman correlation = 0.7514685099046476
+Validation step : Epoch : [256/500] [0/23], Loss : 0.015834946185350418
+Validation Spearman correlation = 0.7960737934895847
+Validation loss decreased (0.016468 --> 0.016460).  Saving model ...
+Training step : Epoch : [257/500] [0/130], Loss : 0.016996711492538452, Learning rate : 0.05
+Training Spearman correlation = 0.7457974234456082
+Validation step : Epoch : [257/500] [0/23], Loss : 0.01675424352288246
+Validation Spearman correlation = 0.7942019406410233
+Validation loss decreased (0.016460 --> 0.016453).  Saving model ...
+Training step : Epoch : [258/500] [0/130], Loss : 0.016169602051377296, Learning rate : 0.037525
+Training Spearman correlation = 0.7457463861957437
+Validation step : Epoch : [258/500] [0/23], Loss : 0.015994418412446976
+Validation Spearman correlation = 0.7943858128735344
+Validation loss decreased (0.016453 --> 0.016446).  Saving model ...
+Training step : Epoch : [259/500] [0/130], Loss : 0.015688328072428703, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7531573364372501
+Validation step : Epoch : [259/500] [0/23], Loss : 0.01626204140484333
+Validation Spearman correlation = 0.7954485054070662
+Validation loss decreased (0.016446 --> 0.016433).  Saving model ...
+Training step : Epoch : [260/500] [0/130], Loss : 0.019086085259914398, Learning rate : 0.0001
+Training Spearman correlation = 0.7575612233324934
+Validation step : Epoch : [260/500] [0/23], Loss : 0.016165506094694138
+Validation Spearman correlation = 0.7946850391416937
+Validation loss decreased (0.016433 --> 0.016420).  Saving model ...
+Training step : Epoch : [261/500] [0/130], Loss : 0.01661044731736183, Learning rate : 0.02505
+Training Spearman correlation = 0.7525837194344309
+Validation step : Epoch : [261/500] [0/23], Loss : 0.016365831717848778
+Validation Spearman correlation = 0.7932721478184449
+Validation loss decreased (0.016420 --> 0.016405).  Saving model ...
+Training step : Epoch : [262/500] [0/130], Loss : 0.016612565144896507, Learning rate : 0.05
+Training Spearman correlation = 0.7474911604826903
+Validation step : Epoch : [262/500] [0/23], Loss : 0.01695079356431961
+Validation Spearman correlation = 0.7943617674884369
+Validation loss decreased (0.016405 --> 0.016391).  Saving model ...
+Training step : Epoch : [263/500] [0/130], Loss : 0.017456958070397377, Learning rate : 0.037525
+Training Spearman correlation = 0.7468718291553328
+Validation step : Epoch : [263/500] [0/23], Loss : 0.016746561974287033
+Validation Spearman correlation = 0.7945519061891091
+Validation loss decreased (0.016391 --> 0.016384).  Saving model ...
+Training step : Epoch : [264/500] [0/130], Loss : 0.015332193113863468, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7511110173838735
+Validation step : Epoch : [264/500] [0/23], Loss : 0.016341838985681534
+Validation Spearman correlation = 0.7926820923402603
+Validation loss decreased (0.016384 --> 0.016378).  Saving model ...
+Training step : Epoch : [265/500] [0/130], Loss : 0.016702642664313316, Learning rate : 0.0001
+Training Spearman correlation = 0.7547725101628642
+Validation step : Epoch : [265/500] [0/23], Loss : 0.01624041423201561
+Validation Spearman correlation = 0.7949018251081862
+Validation loss decreased (0.016378 --> 0.016363).  Saving model ...
+Training step : Epoch : [266/500] [0/130], Loss : 0.015633707866072655, Learning rate : 0.02505
+Training Spearman correlation = 0.7513402574260659
+Validation step : Epoch : [266/500] [0/23], Loss : 0.0161396786570549
+Validation Spearman correlation = 0.7959597043939705
+Validation loss decreased (0.016363 --> 0.016347).  Saving model ...
+Training step : Epoch : [267/500] [0/130], Loss : 0.017958972603082657, Learning rate : 0.05
+Training Spearman correlation = 0.7483874202159978
+Validation step : Epoch : [267/500] [0/23], Loss : 0.015458399429917336
+Validation Spearman correlation = 0.7978664691540709
+Validation loss decreased (0.016347 --> 0.016344).  Saving model ...
+Training step : Epoch : [268/500] [0/130], Loss : 0.0180957093834877, Learning rate : 0.037525
+Training Spearman correlation = 0.7492699567562106
+Validation step : Epoch : [268/500] [0/23], Loss : 0.01636546105146408
+Validation Spearman correlation = 0.798241167613749
+Validation loss decreased (0.016344 --> 0.016341).  Saving model ...
+Training step : Epoch : [269/500] [0/130], Loss : 0.015480218455195427, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7576260795731049
+Validation step : Epoch : [269/500] [0/23], Loss : 0.015888413414359093
+Validation Spearman correlation = 0.795623636320184
+Validation loss decreased (0.016341 --> 0.016331).  Saving model ...
+Training step : Epoch : [270/500] [0/130], Loss : 0.01568792760372162, Learning rate : 0.0001
+Training Spearman correlation = 0.7568517789800101
+Validation step : Epoch : [270/500] [0/23], Loss : 0.01593855954706669
+Validation Spearman correlation = 0.7969166186071013
+Validation loss decreased (0.016331 --> 0.016322).  Saving model ...
+Training step : Epoch : [271/500] [0/130], Loss : 0.017131322994828224, Learning rate : 0.02505
+Training Spearman correlation = 0.7535310411766274
+Validation step : Epoch : [271/500] [0/23], Loss : 0.016116924583911896
+Validation Spearman correlation = 0.7984103762570351
+Validation loss decreased (0.016322 --> 0.016318).  Saving model ...
+Training step : Epoch : [272/500] [0/130], Loss : 0.017628364264965057, Learning rate : 0.05
+Training Spearman correlation = 0.7499424470247621
+Validation step : Epoch : [272/500] [0/23], Loss : 0.016064010560512543
+Validation Spearman correlation = 0.7928930268243626
+Validation loss decreased (0.016318 --> 0.016315).  Saving model ...
+Training step : Epoch : [273/500] [0/130], Loss : 0.01551922969520092, Learning rate : 0.037525
+Training Spearman correlation = 0.747868866375278
+Validation step : Epoch : [273/500] [0/23], Loss : 0.016140680760145187
+Validation Spearman correlation = 0.7980675020107284
+Validation loss decreased (0.016315 --> 0.016313).  Saving model ...
+Training step : Epoch : [274/500] [0/130], Loss : 0.014615085907280445, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7551065793709197
+Validation step : Epoch : [274/500] [0/23], Loss : 0.015519374050199986
+Validation Spearman correlation = 0.7976027057982247
+Validation loss decreased (0.016313 --> 0.016311).  Saving model ...
+Training step : Epoch : [275/500] [0/130], Loss : 0.016168231144547462, Learning rate : 0.0001
+Training Spearman correlation = 0.7600944527313485
+Validation step : Epoch : [275/500] [0/23], Loss : 0.01559331826865673
+Validation Spearman correlation = 0.7979198306813742
+Validation loss decreased (0.016311 --> 0.016304).  Saving model ...
+Training step : Epoch : [276/500] [0/130], Loss : 0.014439927414059639, Learning rate : 0.02505
+Training Spearman correlation = 0.7557340909838003
+Validation step : Epoch : [276/500] [0/23], Loss : 0.016007229685783386
+Validation Spearman correlation = 0.7921973001584235
+Validation loss decreased (0.016304 --> 0.016298).  Saving model ...
+Training step : Epoch : [277/500] [0/130], Loss : 0.01684565469622612, Learning rate : 0.05
+Training Spearman correlation = 0.7496499877467561
+Validation step : Epoch : [277/500] [0/23], Loss : 0.01697785034775734
+Validation Spearman correlation = 0.7925815374033195
+Validation loss decreased (0.016298 --> 0.016295).  Saving model ...
+Training step : Epoch : [278/500] [0/130], Loss : 0.016635961830615997, Learning rate : 0.037525
+Training Spearman correlation = 0.7516619183981439
+Validation step : Epoch : [278/500] [0/23], Loss : 0.01619502529501915
+Validation Spearman correlation = 0.7975437059162465
+Validation loss decreased (0.016295 --> 0.016292).  Saving model ...
+Training step : Epoch : [279/500] [0/130], Loss : 0.014344191178679466, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7550378019889521
+Validation step : Epoch : [279/500] [0/23], Loss : 0.015820283442735672
+Validation Spearman correlation = 0.797293743792727
+Validation loss decreased (0.016292 --> 0.016287).  Saving model ...
+Training step : Epoch : [280/500] [0/130], Loss : 0.016325002536177635, Learning rate : 0.0001
+Training Spearman correlation = 0.7613664962179794
+Validation step : Epoch : [280/500] [0/23], Loss : 0.015592504292726517
+Validation Spearman correlation = 0.7974601404938333
+Validation loss decreased (0.016287 --> 0.016282).  Saving model ...
+Training step : Epoch : [281/500] [0/130], Loss : 0.017597854137420654, Learning rate : 0.02505
+Training Spearman correlation = 0.7555558640994054
+Validation step : Epoch : [281/500] [0/23], Loss : 0.015580058097839355
+Validation Spearman correlation = 0.7992325796934127
+Validation loss decreased (0.016282 --> 0.016273).  Saving model ...
+Training step : Epoch : [282/500] [0/130], Loss : 0.017532426863908768, Learning rate : 0.05
+Training Spearman correlation = 0.7480221421753385
+Validation step : Epoch : [282/500] [0/23], Loss : 0.016916541382670403
+Validation Spearman correlation = 0.7975654268116502
+Validation loss decreased (0.016273 --> 0.016265).  Saving model ...
+Training step : Epoch : [283/500] [0/130], Loss : 0.015756430104374886, Learning rate : 0.037525
+Training Spearman correlation = 0.748911548540836
+Validation step : Epoch : [283/500] [0/23], Loss : 0.016216140240430832
+Validation Spearman correlation = 0.7985498474439997
+Validation loss decreased (0.016265 --> 0.016259).  Saving model ...
+Training step : Epoch : [284/500] [0/130], Loss : 0.0177777037024498, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.758654859392234
+Validation step : Epoch : [284/500] [0/23], Loss : 0.015309683978557587
+Validation Spearman correlation = 0.7964358080726802
+Validation loss decreased (0.016259 --> 0.016254).  Saving model ...
+Training step : Epoch : [285/500] [0/130], Loss : 0.015699757263064384, Learning rate : 0.0001
+Training Spearman correlation = 0.7610292624865319
+Validation step : Epoch : [285/500] [0/23], Loss : 0.015228337608277798
+Validation Spearman correlation = 0.7986849731832419
+Validation loss decreased (0.016254 --> 0.016253).  Saving model ...
+Training step : Epoch : [286/500] [0/130], Loss : 0.016642754897475243, Learning rate : 0.02505
+Training Spearman correlation = 0.7593388144607176
+Validation step : Epoch : [286/500] [0/23], Loss : 0.01569829136133194
+Validation Spearman correlation = 0.7980825515574373
+Validation loss decreased (0.016253 --> 0.016253).  Saving model ...
+Training step : Epoch : [287/500] [0/130], Loss : 0.015684980899095535, Learning rate : 0.05
+Training Spearman correlation = 0.753090414705415
+Validation step : Epoch : [287/500] [0/23], Loss : 0.01619219034910202
+Validation Spearman correlation = 0.7969031892526129
+Validation loss decreased (0.016253 --> 0.016251).  Saving model ...
+Training step : Epoch : [288/500] [0/130], Loss : 0.014587726444005966, Learning rate : 0.037525
+Training Spearman correlation = 0.7518304585387054
+Validation step : Epoch : [288/500] [0/23], Loss : 0.015402136370539665
+Validation Spearman correlation = 0.7994526771289734
+Validation loss decreased (0.016251 --> 0.016249).  Saving model ...
+Training step : Epoch : [289/500] [0/130], Loss : 0.01612112857401371, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7607707002302179
+Validation step : Epoch : [289/500] [0/23], Loss : 0.015677999705076218
+Validation Spearman correlation = 0.7980155023586877
+Validation loss decreased (0.016249 --> 0.016245).  Saving model ...
+Training step : Epoch : [290/500] [0/130], Loss : 0.017145615071058273, Learning rate : 0.0001
+Training Spearman correlation = 0.7604399621114375
+Validation step : Epoch : [290/500] [0/23], Loss : 0.01563386619091034
+Validation Spearman correlation = 0.7988038956606688
+Validation loss decreased (0.016245 --> 0.016241).  Saving model ...
+Training step : Epoch : [291/500] [0/130], Loss : 0.015944913029670715, Learning rate : 0.02505
+Training Spearman correlation = 0.760697721016615
+Validation step : Epoch : [291/500] [0/23], Loss : 0.015601827763020992
+Validation Spearman correlation = 0.7983140653026016
+Validation loss decreased (0.016241 --> 0.016239).  Saving model ...
+Training step : Epoch : [292/500] [0/130], Loss : 0.0150879742577672, Learning rate : 0.05
+Training Spearman correlation = 0.7523577622421274
+Validation step : Epoch : [292/500] [0/23], Loss : 0.01724812760949135
+Validation Spearman correlation = 0.7979853088952154
+Validation loss decreased (0.016239 --> 0.016236).  Saving model ...
+Training step : Epoch : [293/500] [0/130], Loss : 0.01921788603067398, Learning rate : 0.037525
+Training Spearman correlation = 0.7542221911369601
+Validation step : Epoch : [293/500] [0/23], Loss : 0.016089633107185364
+Validation Spearman correlation = 0.7975469782509853
+Validation loss decreased (0.016236 --> 0.016222).  Saving model ...
+Training step : Epoch : [294/500] [0/130], Loss : 0.017465641722083092, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7600654071103166
+Validation step : Epoch : [294/500] [0/23], Loss : 0.015511015430092812
+Validation Spearman correlation = 0.7989334692528476
+Validation loss decreased (0.016222 --> 0.016209).  Saving model ...
+Training step : Epoch : [295/500] [0/130], Loss : 0.014689026400446892, Learning rate : 0.0001
+Training Spearman correlation = 0.7620237843853708
+Validation step : Epoch : [295/500] [0/23], Loss : 0.015501796267926693
+Validation Spearman correlation = 0.7992261063260498
+Validation loss decreased (0.016209 --> 0.016184).  Saving model ...
+Training step : Epoch : [296/500] [0/130], Loss : 0.017323628067970276, Learning rate : 0.02505
+Training Spearman correlation = 0.7551306466032126
+Validation step : Epoch : [296/500] [0/23], Loss : 0.015952058136463165
+Validation Spearman correlation = 0.7990415542093512
+Validation loss decreased (0.016184 --> 0.016159).  Saving model ...
+Training step : Epoch : [297/500] [0/130], Loss : 0.016620565205812454, Learning rate : 0.05
+Training Spearman correlation = 0.7520880173430372
+Validation step : Epoch : [297/500] [0/23], Loss : 0.017058681696653366
+Validation Spearman correlation = 0.795414966208109
+Validation loss decreased (0.016159 --> 0.016135).  Saving model ...
+Training step : Epoch : [298/500] [0/130], Loss : 0.017753036692738533, Learning rate : 0.037525
+Training Spearman correlation = 0.7551361373190784
+Validation step : Epoch : [298/500] [0/23], Loss : 0.016135692596435547
+Validation Spearman correlation = 0.7987605677806705
+Validation loss decreased (0.016135 --> 0.016112).  Saving model ...
+Training step : Epoch : [299/500] [0/130], Loss : 0.01757190376520157, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7603763408137425
+Validation step : Epoch : [299/500] [0/23], Loss : 0.01560407504439354
+Validation Spearman correlation = 0.7989763324546877
+Validation loss decreased (0.016112 --> 0.016080).  Saving model ...
+Training step : Epoch : [300/500] [0/130], Loss : 0.016398314386606216, Learning rate : 0.0001
+Training Spearman correlation = 0.7635015016336791
+Validation step : Epoch : [300/500] [0/23], Loss : 0.015739772468805313
+Validation Spearman correlation = 0.7996494222605471
+Validation loss decreased (0.016080 --> 0.016048).  Saving model ...
+Training step : Epoch : [301/500] [0/130], Loss : 0.016964541748166084, Learning rate : 0.02505
+Training Spearman correlation = 0.75857229439503
+Validation step : Epoch : [301/500] [0/23], Loss : 0.014945467934012413
+Validation Spearman correlation = 0.8018308256089037
+Validation loss decreased (0.016048 --> 0.016037).  Saving model ...
+Training step : Epoch : [302/500] [0/130], Loss : 0.01463158056139946, Learning rate : 0.05
+Training Spearman correlation = 0.7540243068322221
+Validation step : Epoch : [302/500] [0/23], Loss : 0.01635698974132538
+Validation Spearman correlation = 0.7909711109287088
+Validation loss decreased (0.016037 --> 0.016026).  Saving model ...
+Training step : Epoch : [303/500] [0/130], Loss : 0.018651751801371574, Learning rate : 0.037525
+Training Spearman correlation = 0.7564549268114633
+Validation step : Epoch : [303/500] [0/23], Loss : 0.016352754086256027
+Validation Spearman correlation = 0.7944163963330747
+Validation loss decreased (0.016026 --> 0.016017).  Saving model ...
+Training step : Epoch : [304/500] [0/130], Loss : 0.017352163791656494, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7620567029847032
+Validation step : Epoch : [304/500] [0/23], Loss : 0.015796901658177376
+Validation Spearman correlation = 0.7985616772227387
+Validation loss decreased (0.016017 --> 0.016008).  Saving model ...
+Training step : Epoch : [305/500] [0/130], Loss : 0.016758721321821213, Learning rate : 0.0001
+Training Spearman correlation = 0.7625818990989184
+Validation step : Epoch : [305/500] [0/23], Loss : 0.015625759959220886
+Validation Spearman correlation = 0.7986481705144124
+Validation loss decreased (0.016008 --> 0.016006).  Saving model ...
+Training step : Epoch : [306/500] [0/130], Loss : 0.015207892283797264, Learning rate : 0.02505
+Training Spearman correlation = 0.7587638736559755
+Validation step : Epoch : [306/500] [0/23], Loss : 0.015611939132213593
+Validation Spearman correlation = 0.798872182286577
+Validation loss decreased (0.016006 --> 0.016004).  Saving model ...
+Training step : Epoch : [307/500] [0/130], Loss : 0.018932897597551346, Learning rate : 0.05
+Training Spearman correlation = 0.7533177826989875
+Validation step : Epoch : [307/500] [0/23], Loss : 0.01675064116716385
+Validation Spearman correlation = 0.7890262959377441
+Validation loss decreased (0.016004 --> 0.016004).  Saving model ...
+Training step : Epoch : [308/500] [0/130], Loss : 0.018907535821199417, Learning rate : 0.037525
+Training Spearman correlation = 0.7563196618140274
+Validation step : Epoch : [308/500] [0/23], Loss : 0.016819793730974197
+Validation Spearman correlation = 0.7955698738745032
+Validation loss decreased (0.016004 --> 0.016004).  Saving model ...
+Training step : Epoch : [309/500] [0/130], Loss : 0.015480042435228825, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7592577539592732
+Validation step : Epoch : [309/500] [0/23], Loss : 0.015065155923366547
+Validation Spearman correlation = 0.801146206582134
+Validation loss decreased (0.016004 --> 0.015988).  Saving model ...
+Training step : Epoch : [310/500] [0/130], Loss : 0.014046639204025269, Learning rate : 0.0001
+Training Spearman correlation = 0.762392185034571
+Validation step : Epoch : [310/500] [0/23], Loss : 0.01508211251348257
+Validation Spearman correlation = 0.8015052436861217
+Validation loss decreased (0.015988 --> 0.015972).  Saving model ...
+Training step : Epoch : [311/500] [0/130], Loss : 0.015947498381137848, Learning rate : 0.02505
+Training Spearman correlation = 0.7615452165799188
+Validation step : Epoch : [311/500] [0/23], Loss : 0.0159575454890728
+Validation Spearman correlation = 0.7993400101618501
+Validation loss decreased (0.015972 --> 0.015971).  Saving model ...
+Training step : Epoch : [312/500] [0/130], Loss : 0.01334775798022747, Learning rate : 0.05
+Training Spearman correlation = 0.7549333889826314
+Validation step : Epoch : [312/500] [0/23], Loss : 0.016504501923918724
+Validation Spearman correlation = 0.7952435171099715
+Validation loss decreased (0.015971 --> 0.015971).  Saving model ...
+Training step : Epoch : [313/500] [0/130], Loss : 0.014948364347219467, Learning rate : 0.037525
+Training Spearman correlation = 0.7596063780112996
+Validation step : Epoch : [313/500] [0/23], Loss : 0.018121786415576935
+Validation Spearman correlation = 0.7914186353867638
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [314/500] [0/130], Loss : 0.019817817956209183, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7621476294128798
+Validation step : Epoch : [314/500] [0/23], Loss : 0.015507005155086517
+Validation Spearman correlation = 0.800152465891485
+Validation loss decreased (0.015971 --> 0.015971).  Saving model ...
+Training step : Epoch : [315/500] [0/130], Loss : 0.014387588948011398, Learning rate : 0.0001
+Training Spearman correlation = 0.7653753970398594
+Validation step : Epoch : [315/500] [0/23], Loss : 0.015378328040242195
+Validation Spearman correlation = 0.8012694031933741
+Validation loss decreased (0.015971 --> 0.015970).  Saving model ...
+Training step : Epoch : [316/500] [0/130], Loss : 0.01425269152969122, Learning rate : 0.02505
+Training Spearman correlation = 0.7602536688647302
+Validation step : Epoch : [316/500] [0/23], Loss : 0.015629395842552185
+Validation Spearman correlation = 0.7979954434350625
+Validation loss decreased (0.015970 --> 0.015969).  Saving model ...
+Training step : Epoch : [317/500] [0/130], Loss : 0.01438581757247448, Learning rate : 0.05
+Training Spearman correlation = 0.7557308283831038
+Validation step : Epoch : [317/500] [0/23], Loss : 0.017142388969659805
+Validation Spearman correlation = 0.7897677848069954
+Validation loss decreased (0.015969 --> 0.015968).  Saving model ...
+Training step : Epoch : [318/500] [0/130], Loss : 0.014765981584787369, Learning rate : 0.037525
+Training Spearman correlation = 0.7551351874246149
+Validation step : Epoch : [318/500] [0/23], Loss : 0.015290316194295883
+Validation Spearman correlation = 0.7992939781894726
+Validation loss decreased (0.015968 --> 0.015966).  Saving model ...
+Training step : Epoch : [319/500] [0/130], Loss : 0.016388900578022003, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7647779125562817
+Validation step : Epoch : [319/500] [0/23], Loss : 0.015756946057081223
+Validation Spearman correlation = 0.8019219308392954
+Validation loss decreased (0.015966 --> 0.015957).  Saving model ...
+Training step : Epoch : [320/500] [0/130], Loss : 0.01705171912908554, Learning rate : 0.0001
+Training Spearman correlation = 0.7636704717102416
+Validation step : Epoch : [320/500] [0/23], Loss : 0.015592060983181
+Validation Spearman correlation = 0.8020258881346618
+Validation loss decreased (0.015957 --> 0.015948).  Saving model ...
+Training step : Epoch : [321/500] [0/130], Loss : 0.013299526646733284, Learning rate : 0.02505
+Training Spearman correlation = 0.761421441400462
+Validation step : Epoch : [321/500] [0/23], Loss : 0.015387766063213348
+Validation Spearman correlation = 0.8027857414562792
+Validation loss decreased (0.015948 --> 0.015945).  Saving model ...
+Training step : Epoch : [322/500] [0/130], Loss : 0.016846828162670135, Learning rate : 0.05
+Training Spearman correlation = 0.7546610854571757
+Validation step : Epoch : [322/500] [0/23], Loss : 0.016757139936089516
+Validation Spearman correlation = 0.7873248016323288
+Validation loss decreased (0.015945 --> 0.015942).  Saving model ...
+Training step : Epoch : [323/500] [0/130], Loss : 0.013913505710661411, Learning rate : 0.037525
+Training Spearman correlation = 0.7610664335485164
+Validation step : Epoch : [323/500] [0/23], Loss : 0.016837814822793007
+Validation Spearman correlation = 0.7926072333561139
+Validation loss decreased (0.015942 --> 0.015937).  Saving model ...
+Training step : Epoch : [324/500] [0/130], Loss : 0.014597824774682522, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7642781860901852
+Validation step : Epoch : [324/500] [0/23], Loss : 0.015529078431427479
+Validation Spearman correlation = 0.8015489271012427
+Validation loss decreased (0.015937 --> 0.015932).  Saving model ...
+Training step : Epoch : [325/500] [0/130], Loss : 0.016162950545549393, Learning rate : 0.0001
+Training Spearman correlation = 0.7658983347985696
+Validation step : Epoch : [325/500] [0/23], Loss : 0.015331284143030643
+Validation Spearman correlation = 0.8018160447519286
+Validation loss decreased (0.015932 --> 0.015919).  Saving model ...
+Training step : Epoch : [326/500] [0/130], Loss : 0.013423959724605083, Learning rate : 0.02505
+Training Spearman correlation = 0.7637487687657762
+Validation step : Epoch : [326/500] [0/23], Loss : 0.015622524544596672
+Validation Spearman correlation = 0.7983469233362283
+Validation loss decreased (0.015919 --> 0.015907).  Saving model ...
+Training step : Epoch : [327/500] [0/130], Loss : 0.01718621887266636, Learning rate : 0.05
+Training Spearman correlation = 0.7568504521039465
+Validation step : Epoch : [327/500] [0/23], Loss : 0.015878913924098015
+Validation Spearman correlation = 0.7956873238787529
+Validation loss decreased (0.015907 --> 0.015899).  Saving model ...
+Training step : Epoch : [328/500] [0/130], Loss : 0.016606386750936508, Learning rate : 0.037525
+Training Spearman correlation = 0.7575137895483006
+Validation step : Epoch : [328/500] [0/23], Loss : 0.016002340242266655
+Validation Spearman correlation = 0.7914387855232945
+Validation loss decreased (0.015899 --> 0.015891).  Saving model ...
+Training step : Epoch : [329/500] [0/130], Loss : 0.017149457708001137, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7637046721143318
+Validation step : Epoch : [329/500] [0/23], Loss : 0.015696201473474503
+Validation Spearman correlation = 0.7990610932248553
+Validation loss decreased (0.015891 --> 0.015891).  Saving model ...
+Training step : Epoch : [330/500] [0/130], Loss : 0.015907710418105125, Learning rate : 0.0001
+Training Spearman correlation = 0.7678957664018774
+Validation step : Epoch : [330/500] [0/23], Loss : 0.01545505691319704
+Validation Spearman correlation = 0.801187295582832
+Validation loss decreased (0.015891 --> 0.015891).  Saving model ...
+Training step : Epoch : [331/500] [0/130], Loss : 0.015645809471607208, Learning rate : 0.02505
+Training Spearman correlation = 0.7663276536566709
+Validation step : Epoch : [331/500] [0/23], Loss : 0.01577916368842125
+Validation Spearman correlation = 0.8018414500697869
+Validation loss decreased (0.015891 --> 0.015883).  Saving model ...
+Training step : Epoch : [332/500] [0/130], Loss : 0.015716684982180595, Learning rate : 0.05
+Training Spearman correlation = 0.7555105675929956
+Validation step : Epoch : [332/500] [0/23], Loss : 0.015409497544169426
+Validation Spearman correlation = 0.796796420021043
+Validation loss decreased (0.015883 --> 0.015876).  Saving model ...
+Training step : Epoch : [333/500] [0/130], Loss : 0.01761608198285103, Learning rate : 0.037525
+Training Spearman correlation = 0.7590794890215131
+Validation step : Epoch : [333/500] [0/23], Loss : 0.015157235786318779
+Validation Spearman correlation = 0.8006765847476074
+Validation loss decreased (0.015876 --> 0.015871).  Saving model ...
+Training step : Epoch : [334/500] [0/130], Loss : 0.015789303928613663, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7654478584854943
+Validation step : Epoch : [334/500] [0/23], Loss : 0.015048732981085777
+Validation Spearman correlation = 0.8026711520283742
+Validation loss decreased (0.015871 --> 0.015865).  Saving model ...
+Training step : Epoch : [335/500] [0/130], Loss : 0.016444290056824684, Learning rate : 0.0001
+Training Spearman correlation = 0.7655859783323052
+Validation step : Epoch : [335/500] [0/23], Loss : 0.0151237603276968
+Validation Spearman correlation = 0.8019975115514104
+Validation loss decreased (0.015865 --> 0.015860).  Saving model ...
+Training step : Epoch : [336/500] [0/130], Loss : 0.014588139951229095, Learning rate : 0.02505
+Training Spearman correlation = 0.7635896795966575
+Validation step : Epoch : [336/500] [0/23], Loss : 0.01569393277168274
+Validation Spearman correlation = 0.7970919345715437
+Validation loss decreased (0.015860 --> 0.015855).  Saving model ...
+Training step : Epoch : [337/500] [0/130], Loss : 0.01681492105126381, Learning rate : 0.05
+Training Spearman correlation = 0.7588758019625346
+Validation step : Epoch : [337/500] [0/23], Loss : 0.017012450844049454
+Validation Spearman correlation = 0.7952647410357734
+Validation loss decreased (0.015855 --> 0.015851).  Saving model ...
+Training step : Epoch : [338/500] [0/130], Loss : 0.013959629461169243, Learning rate : 0.037525
+Training Spearman correlation = 0.7618226932702462
+Validation step : Epoch : [338/500] [0/23], Loss : 0.015888743102550507
+Validation Spearman correlation = 0.8014936971350056
+Validation loss decreased (0.015851 --> 0.015846).  Saving model ...
+Training step : Epoch : [339/500] [0/130], Loss : 0.015668168663978577, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7681737926517325
+Validation step : Epoch : [339/500] [0/23], Loss : 0.015634983777999878
+Validation Spearman correlation = 0.8019318613663241
+Validation loss decreased (0.015846 --> 0.015843).  Saving model ...
+Training step : Epoch : [340/500] [0/130], Loss : 0.015334679745137691, Learning rate : 0.0001
+Training Spearman correlation = 0.7675429889105543
+Validation step : Epoch : [340/500] [0/23], Loss : 0.015545757487416267
+Validation Spearman correlation = 0.8028844728933348
+Validation loss decreased (0.015843 --> 0.015839).  Saving model ...
+Training step : Epoch : [341/500] [0/130], Loss : 0.015696536749601364, Learning rate : 0.02505
+Training Spearman correlation = 0.7647273238427554
+Validation step : Epoch : [341/500] [0/23], Loss : 0.016416462138295174
+Validation Spearman correlation = 0.7994302012969566
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [342/500] [0/130], Loss : 0.016039494425058365, Learning rate : 0.05
+Training Spearman correlation = 0.7578635973449729
+Validation step : Epoch : [342/500] [0/23], Loss : 0.014882037416100502
+Validation Spearman correlation = 0.7973885768888842
+Validation loss decreased (0.015839 --> 0.015839).  Saving model ...
+Training step : Epoch : [343/500] [0/130], Loss : 0.016559207811951637, Learning rate : 0.037525
+Training Spearman correlation = 0.7608884779459532
+Validation step : Epoch : [343/500] [0/23], Loss : 0.016673600301146507
+Validation Spearman correlation = 0.8012728454035402
+Validation loss decreased (0.015839 --> 0.015838).  Saving model ...
+Training step : Epoch : [344/500] [0/130], Loss : 0.014255011454224586, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7665340031030262
+Validation step : Epoch : [344/500] [0/23], Loss : 0.015386860817670822
+Validation Spearman correlation = 0.8012165361223792
+Validation loss decreased (0.015838 --> 0.015838).  Saving model ...
+Training step : Epoch : [345/500] [0/130], Loss : 0.016554689034819603, Learning rate : 0.0001
+Training Spearman correlation = 0.770201415376086
+Validation step : Epoch : [345/500] [0/23], Loss : 0.01548792514950037
+Validation Spearman correlation = 0.8018889618050128
+Validation loss decreased (0.015838 --> 0.015836).  Saving model ...
+Training step : Epoch : [346/500] [0/130], Loss : 0.015404225327074528, Learning rate : 0.02505
+Training Spearman correlation = 0.7672268125853577
+Validation step : Epoch : [346/500] [0/23], Loss : 0.015254075638949871
+Validation Spearman correlation = 0.7973567945902068
+Validation loss decreased (0.015836 --> 0.015834).  Saving model ...
+Training step : Epoch : [347/500] [0/130], Loss : 0.015712419524788857, Learning rate : 0.05
+Training Spearman correlation = 0.7569098200094627
+Validation step : Epoch : [347/500] [0/23], Loss : 0.01612369529902935
+Validation Spearman correlation = 0.7976301280702781
+Validation loss decreased (0.015834 --> 0.015829).  Saving model ...
+Training step : Epoch : [348/500] [0/130], Loss : 0.015698108822107315, Learning rate : 0.037525
+Training Spearman correlation = 0.7629298851022442
+Validation step : Epoch : [348/500] [0/23], Loss : 0.016505183652043343
+Validation Spearman correlation = 0.7980686724094969
+Validation loss decreased (0.015829 --> 0.015825).  Saving model ...
+Training step : Epoch : [349/500] [0/130], Loss : 0.014275727793574333, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7678054919225539
+Validation step : Epoch : [349/500] [0/23], Loss : 0.015422618947923183
+Validation Spearman correlation = 0.8008737517666545
+Validation loss decreased (0.015825 --> 0.015821).  Saving model ...
+Training step : Epoch : [350/500] [0/130], Loss : 0.014300279319286346, Learning rate : 0.0001
+Training Spearman correlation = 0.769986977136038
+Validation step : Epoch : [350/500] [0/23], Loss : 0.01554054208099842
+Validation Spearman correlation = 0.8029553274384709
+Validation loss decreased (0.015821 --> 0.015817).  Saving model ...
+Training step : Epoch : [351/500] [0/130], Loss : 0.014776105061173439, Learning rate : 0.02505
+Training Spearman correlation = 0.7685191491483336
+Validation step : Epoch : [351/500] [0/23], Loss : 0.015711847692728043
+Validation Spearman correlation = 0.8026858137074614
+Validation loss decreased (0.015817 --> 0.015817).  Saving model ...
+Training step : Epoch : [352/500] [0/130], Loss : 0.014528843574225903, Learning rate : 0.05
+Training Spearman correlation = 0.7608256965366302
+Validation step : Epoch : [352/500] [0/23], Loss : 0.015946844592690468
+Validation Spearman correlation = 0.798589120299409
+Validation loss decreased (0.015817 --> 0.015817).  Saving model ...
+Training step : Epoch : [353/500] [0/130], Loss : 0.01608235388994217, Learning rate : 0.037525
+Training Spearman correlation = 0.7606327194014413
+Validation step : Epoch : [353/500] [0/23], Loss : 0.015044702216982841
+Validation Spearman correlation = 0.8014603027801424
+Validation loss decreased (0.015817 --> 0.015811).  Saving model ...
+Training step : Epoch : [354/500] [0/130], Loss : 0.01345396600663662, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7684083572524106
+Validation step : Epoch : [354/500] [0/23], Loss : 0.015382320620119572
+Validation Spearman correlation = 0.8028066128685193
+Validation loss decreased (0.015811 --> 0.015805).  Saving model ...
+Training step : Epoch : [355/500] [0/130], Loss : 0.01638626493513584, Learning rate : 0.0001
+Training Spearman correlation = 0.7691938709020982
+Validation step : Epoch : [355/500] [0/23], Loss : 0.01530887745320797
+Validation Spearman correlation = 0.8025780593310692
+Validation loss decreased (0.015805 --> 0.015802).  Saving model ...
+Training step : Epoch : [356/500] [0/130], Loss : 0.018044594675302505, Learning rate : 0.02505
+Training Spearman correlation = 0.7649768943322671
+Validation step : Epoch : [356/500] [0/23], Loss : 0.015023395419120789
+Validation Spearman correlation = 0.8054460272231986
+Validation loss decreased (0.015802 --> 0.015798).  Saving model ...
+Training step : Epoch : [357/500] [0/130], Loss : 0.014210288412868977, Learning rate : 0.05
+Training Spearman correlation = 0.760174496573355
+Validation step : Epoch : [357/500] [0/23], Loss : 0.016475457698106766
+Validation Spearman correlation = 0.7989188497355574
+Validation loss decreased (0.015798 --> 0.015791).  Saving model ...
+Training step : Epoch : [358/500] [0/130], Loss : 0.016097210347652435, Learning rate : 0.037525
+Training Spearman correlation = 0.7608134025727963
+Validation step : Epoch : [358/500] [0/23], Loss : 0.015910932794213295
+Validation Spearman correlation = 0.8026722996296963
+Validation loss decreased (0.015791 --> 0.015784).  Saving model ...
+Training step : Epoch : [359/500] [0/130], Loss : 0.01344566885381937, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7674878019865666
+Validation step : Epoch : [359/500] [0/23], Loss : 0.01578477770090103
+Validation Spearman correlation = 0.803217559557859
+Validation loss decreased (0.015784 --> 0.015777).  Saving model ...
+Training step : Epoch : [360/500] [0/130], Loss : 0.014693671837449074, Learning rate : 0.0001
+Training Spearman correlation = 0.7752174986428977
+Validation step : Epoch : [360/500] [0/23], Loss : 0.015537514351308346
+Validation Spearman correlation = 0.8034193190455413
+Validation loss decreased (0.015777 --> 0.015770).  Saving model ...
+Training step : Epoch : [361/500] [0/130], Loss : 0.014772580936551094, Learning rate : 0.02505
+Training Spearman correlation = 0.7677111722489397
+Validation step : Epoch : [361/500] [0/23], Loss : 0.016073917970061302
+Validation Spearman correlation = 0.8001191380770749
+Validation loss decreased (0.015770 --> 0.015770).  Saving model ...
+Training step : Epoch : [362/500] [0/130], Loss : 0.015116794034838676, Learning rate : 0.05
+Training Spearman correlation = 0.7640589008247755
+Validation step : Epoch : [362/500] [0/23], Loss : 0.017144355922937393
+Validation Spearman correlation = 0.7951543547629961
+Validation loss decreased (0.015770 --> 0.015769).  Saving model ...
+Training step : Epoch : [363/500] [0/130], Loss : 0.015299445018172264, Learning rate : 0.037525
+Training Spearman correlation = 0.7628432758130298
+Validation step : Epoch : [363/500] [0/23], Loss : 0.015906469896435738
+Validation Spearman correlation = 0.8025055184559172
+Validation loss decreased (0.015769 --> 0.015767).  Saving model ...
+Training step : Epoch : [364/500] [0/130], Loss : 0.014060724526643753, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7694232616992168
+Validation step : Epoch : [364/500] [0/23], Loss : 0.01540522463619709
+Validation Spearman correlation = 0.8022748388535618
+Validation loss decreased (0.015767 --> 0.015764).  Saving model ...
+Training step : Epoch : [365/500] [0/130], Loss : 0.015593779273331165, Learning rate : 0.0001
+Training Spearman correlation = 0.7752116403944309
+Validation step : Epoch : [365/500] [0/23], Loss : 0.015329866670072079
+Validation Spearman correlation = 0.8029053610715357
+Validation loss decreased (0.015764 --> 0.015763).  Saving model ...
+Training step : Epoch : [366/500] [0/130], Loss : 0.016341516748070717, Learning rate : 0.02505
+Training Spearman correlation = 0.7662466913126594
+Validation step : Epoch : [366/500] [0/23], Loss : 0.015935786068439484
+Validation Spearman correlation = 0.8012239090942281
+Validation loss decreased (0.015763 --> 0.015761).  Saving model ...
+Training step : Epoch : [367/500] [0/130], Loss : 0.013516864739358425, Learning rate : 0.05
+Training Spearman correlation = 0.7627300558224289
+Validation step : Epoch : [367/500] [0/23], Loss : 0.016766052693128586
+Validation Spearman correlation = 0.7905394407928473
+Validation loss decreased (0.015761 --> 0.015736).  Saving model ...
+Training step : Epoch : [368/500] [0/130], Loss : 0.017607521265745163, Learning rate : 0.037525
+Training Spearman correlation = 0.7649261729677911
+Validation step : Epoch : [368/500] [0/23], Loss : 0.01627849042415619
+Validation Spearman correlation = 0.8036580810585332
+Validation loss decreased (0.015736 --> 0.015711).  Saving model ...
+Training step : Epoch : [369/500] [0/130], Loss : 0.017231475561857224, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7706727234452789
+Validation step : Epoch : [369/500] [0/23], Loss : 0.015798185020685196
+Validation Spearman correlation = 0.8021417289221116
+Validation loss decreased (0.015711 --> 0.015700).  Saving model ...
+Training step : Epoch : [370/500] [0/130], Loss : 0.014123912900686264, Learning rate : 0.0001
+Training Spearman correlation = 0.7737925691929695
+Validation step : Epoch : [370/500] [0/23], Loss : 0.015696629881858826
+Validation Spearman correlation = 0.8040529074399884
+Validation loss decreased (0.015700 --> 0.015689).  Saving model ...
+Training step : Epoch : [371/500] [0/130], Loss : 0.017858266830444336, Learning rate : 0.02505
+Training Spearman correlation = 0.7713017125666426
+Validation step : Epoch : [371/500] [0/23], Loss : 0.016439925879240036
+Validation Spearman correlation = 0.799248139313212
+Validation loss decreased (0.015689 --> 0.015687).  Saving model ...
+Training step : Epoch : [372/500] [0/130], Loss : 0.014404097571969032, Learning rate : 0.05
+Training Spearman correlation = 0.7603499512725385
+Validation step : Epoch : [372/500] [0/23], Loss : 0.01721561700105667
+Validation Spearman correlation = 0.7945737353693972
+Validation loss decreased (0.015687 --> 0.015685).  Saving model ...
+Training step : Epoch : [373/500] [0/130], Loss : 0.014154266566038132, Learning rate : 0.037525
+Training Spearman correlation = 0.768733356265934
+Validation step : Epoch : [373/500] [0/23], Loss : 0.016277559101581573
+Validation Spearman correlation = 0.8019279460655916
+Validation loss decreased (0.015685 --> 0.015684).  Saving model ...
+Training step : Epoch : [374/500] [0/130], Loss : 0.01647537387907505, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7706349238775309
+Validation step : Epoch : [374/500] [0/23], Loss : 0.016091149300336838
+Validation Spearman correlation = 0.8022012880756629
+Validation loss decreased (0.015684 --> 0.015682).  Saving model ...
+Training step : Epoch : [375/500] [0/130], Loss : 0.017032429575920105, Learning rate : 0.0001
+Training Spearman correlation = 0.7711100592095366
+Validation step : Epoch : [375/500] [0/23], Loss : 0.015901027247309685
+Validation Spearman correlation = 0.8033152927113951
+Validation loss decreased (0.015682 --> 0.015679).  Saving model ...
+Training step : Epoch : [376/500] [0/130], Loss : 0.015884501859545708, Learning rate : 0.02505
+Training Spearman correlation = 0.7679627679546827
+Validation step : Epoch : [376/500] [0/23], Loss : 0.015285423025488853
+Validation Spearman correlation = 0.8025220838574275
+Validation loss decreased (0.015679 --> 0.015676).  Saving model ...
+Training step : Epoch : [377/500] [0/130], Loss : 0.015585534274578094, Learning rate : 0.05
+Training Spearman correlation = 0.7610170713335481
+Validation step : Epoch : [377/500] [0/23], Loss : 0.015767991542816162
+Validation Spearman correlation = 0.8013990796237043
+Validation loss decreased (0.015676 --> 0.015675).  Saving model ...
+Training step : Epoch : [378/500] [0/130], Loss : 0.014990953728556633, Learning rate : 0.037525
+Training Spearman correlation = 0.7686495212721788
+Validation step : Epoch : [378/500] [0/23], Loss : 0.01554290484637022
+Validation Spearman correlation = 0.8046891088367929
+Validation loss decreased (0.015675 --> 0.015675).  Saving model ...
+Training step : Epoch : [379/500] [0/130], Loss : 0.01231592521071434, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7732991405607069
+Validation step : Epoch : [379/500] [0/23], Loss : 0.015583459287881851
+Validation Spearman correlation = 0.8043187044920572
+Validation loss decreased (0.015675 --> 0.015663).  Saving model ...
+Training step : Epoch : [380/500] [0/130], Loss : 0.01463858038187027, Learning rate : 0.0001
+Training Spearman correlation = 0.7749951815865673
+Validation step : Epoch : [380/500] [0/23], Loss : 0.015333151444792747
+Validation Spearman correlation = 0.8044451190076414
+Validation loss decreased (0.015663 --> 0.015650).  Saving model ...
+Training step : Epoch : [381/500] [0/130], Loss : 0.01309361681342125, Learning rate : 0.02505
+Training Spearman correlation = 0.776062041473958
+Validation step : Epoch : [381/500] [0/23], Loss : 0.015833280980587006
+Validation Spearman correlation = 0.7990435654554566
+Validation loss decreased (0.015650 --> 0.015641).  Saving model ...
+Training step : Epoch : [382/500] [0/130], Loss : 0.013174401596188545, Learning rate : 0.05
+Training Spearman correlation = 0.763031082030841
+Validation step : Epoch : [382/500] [0/23], Loss : 0.015488426201045513
+Validation Spearman correlation = 0.7967160613686979
+Validation loss decreased (0.015641 --> 0.015632).  Saving model ...
+Training step : Epoch : [383/500] [0/130], Loss : 0.013867445290088654, Learning rate : 0.037525
+Training Spearman correlation = 0.7673566752194894
+Validation step : Epoch : [383/500] [0/23], Loss : 0.01657625287771225
+Validation Spearman correlation = 0.7958691541670705
+Validation loss decreased (0.015632 --> 0.015632).  Saving model ...
+Training step : Epoch : [384/500] [0/130], Loss : 0.016641035676002502, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7713822158298032
+Validation step : Epoch : [384/500] [0/23], Loss : 0.01591639406979084
+Validation Spearman correlation = 0.8020305141528024
+Validation loss decreased (0.015632 --> 0.015631).  Saving model ...
+Training step : Epoch : [385/500] [0/130], Loss : 0.013604499399662018, Learning rate : 0.0001
+Training Spearman correlation = 0.775116197344595
+Validation step : Epoch : [385/500] [0/23], Loss : 0.01586119830608368
+Validation Spearman correlation = 0.8024321091155084
+Validation loss decreased (0.015631 --> 0.015626).  Saving model ...
+Training step : Epoch : [386/500] [0/130], Loss : 0.014860549941658974, Learning rate : 0.02505
+Training Spearman correlation = 0.7719648593010673
+Validation step : Epoch : [386/500] [0/23], Loss : 0.015865862369537354
+Validation Spearman correlation = 0.8001250974267443
+Validation loss decreased (0.015626 --> 0.015622).  Saving model ...
+Training step : Epoch : [387/500] [0/130], Loss : 0.01470932736992836, Learning rate : 0.05
+Training Spearman correlation = 0.7618154603185283
+Validation step : Epoch : [387/500] [0/23], Loss : 0.015251652337610722
+Validation Spearman correlation = 0.7895737423542599
+Validation loss decreased (0.015622 --> 0.015615).  Saving model ...
+Training step : Epoch : [388/500] [0/130], Loss : 0.013990886509418488, Learning rate : 0.037525
+Training Spearman correlation = 0.7676140883254667
+Validation step : Epoch : [388/500] [0/23], Loss : 0.015319675207138062
+Validation Spearman correlation = 0.8007352225516015
+Validation loss decreased (0.015615 --> 0.015608).  Saving model ...
+Training step : Epoch : [389/500] [0/130], Loss : 0.017913253977894783, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7724473082353701
+Validation step : Epoch : [389/500] [0/23], Loss : 0.015169806778430939
+Validation Spearman correlation = 0.8022163337071927
+Validation loss decreased (0.015608 --> 0.015599).  Saving model ...
+Training step : Epoch : [390/500] [0/130], Loss : 0.012916797772049904, Learning rate : 0.0001
+Training Spearman correlation = 0.7741447401016041
+Validation step : Epoch : [390/500] [0/23], Loss : 0.015133591368794441
+Validation Spearman correlation = 0.8023688797246887
+Validation loss decreased (0.015599 --> 0.015589).  Saving model ...
+Training step : Epoch : [391/500] [0/130], Loss : 0.014213183894753456, Learning rate : 0.02505
+Training Spearman correlation = 0.7692698044530295
+Validation step : Epoch : [391/500] [0/23], Loss : 0.01588573306798935
+Validation Spearman correlation = 0.7976202079368067
+Validation loss decreased (0.015589 --> 0.015584).  Saving model ...
+Training step : Epoch : [392/500] [0/130], Loss : 0.015748385339975357, Learning rate : 0.05
+Training Spearman correlation = 0.7617298932452018
+Validation step : Epoch : [392/500] [0/23], Loss : 0.015072004869580269
+Validation Spearman correlation = 0.7920777240392513
+Validation loss decreased (0.015584 --> 0.015579).  Saving model ...
+Training step : Epoch : [393/500] [0/130], Loss : 0.016363348811864853, Learning rate : 0.037525
+Training Spearman correlation = 0.7679864763496045
+Validation step : Epoch : [393/500] [0/23], Loss : 0.01479275431483984
+Validation Spearman correlation = 0.8040005848087923
+Validation loss decreased (0.015579 --> 0.015578).  Saving model ...
+Training step : Epoch : [394/500] [0/130], Loss : 0.017361167818307877, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7748365981302103
+Validation step : Epoch : [394/500] [0/23], Loss : 0.014624498784542084
+Validation Spearman correlation = 0.8021318585513084
+Validation loss decreased (0.015578 --> 0.015577).  Saving model ...
+Training step : Epoch : [395/500] [0/130], Loss : 0.015316436067223549, Learning rate : 0.0001
+Training Spearman correlation = 0.7776411702183788
+Validation step : Epoch : [395/500] [0/23], Loss : 0.014765968546271324
+Validation Spearman correlation = 0.8037629515969602
+Validation loss decreased (0.015577 --> 0.015574).  Saving model ...
+Training step : Epoch : [396/500] [0/130], Loss : 0.015500959008932114, Learning rate : 0.02505
+Training Spearman correlation = 0.7712767072773031
+Validation step : Epoch : [396/500] [0/23], Loss : 0.0152667798101902
+Validation Spearman correlation = 0.8018584438928699
+Validation loss decreased (0.015574 --> 0.015572).  Saving model ...
+Training step : Epoch : [397/500] [0/130], Loss : 0.016603514552116394, Learning rate : 0.05
+Training Spearman correlation = 0.7677563757000841
+Validation step : Epoch : [397/500] [0/23], Loss : 0.01646438241004944
+Validation Spearman correlation = 0.7952618977779611
+Validation loss decreased (0.015572 --> 0.015571).  Saving model ...
+Training step : Epoch : [398/500] [0/130], Loss : 0.011694126762449741, Learning rate : 0.037525
+Training Spearman correlation = 0.7712995520133263
+Validation step : Epoch : [398/500] [0/23], Loss : 0.01683642715215683
+Validation Spearman correlation = 0.7893910772152611
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [399/500] [0/130], Loss : 0.015146167948842049, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7726143624831648
+Validation step : Epoch : [399/500] [0/23], Loss : 0.014895979315042496
+Validation Spearman correlation = 0.8028324360352799
+Validation loss decreased (0.015571 --> 0.015571).  Saving model ...
+Training step : Epoch : [400/500] [0/130], Loss : 0.016340341418981552, Learning rate : 0.0001
+Training Spearman correlation = 0.7765924548742446
+Validation step : Epoch : [400/500] [0/23], Loss : 0.014958875253796577
+Validation Spearman correlation = 0.8039279229834935
+Validation loss decreased (0.015571 --> 0.015570).  Saving model ...
+Training step : Epoch : [401/500] [0/130], Loss : 0.014574028551578522, Learning rate : 0.02505
+Training Spearman correlation = 0.7735377803738303
+Validation step : Epoch : [401/500] [0/23], Loss : 0.014985240995883942
+Validation Spearman correlation = 0.8014931480335508
+Validation loss decreased (0.015570 --> 0.015569).  Saving model ...
+Training step : Epoch : [402/500] [0/130], Loss : 0.013215980492532253, Learning rate : 0.05
+Training Spearman correlation = 0.7641932243693468
+Validation step : Epoch : [402/500] [0/23], Loss : 0.015813827514648438
+Validation Spearman correlation = 0.791639527469533
+Validation loss decreased (0.015569 --> 0.015568).  Saving model ...
+Training step : Epoch : [403/500] [0/130], Loss : 0.014092225581407547, Learning rate : 0.037525
+Training Spearman correlation = 0.7696607541045009
+Validation step : Epoch : [403/500] [0/23], Loss : 0.015998123213648796
+Validation Spearman correlation = 0.8020837121096679
+Validation loss decreased (0.015568 --> 0.015565).  Saving model ...
+Training step : Epoch : [404/500] [0/130], Loss : 0.012928089126944542, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7747365550448779
+Validation step : Epoch : [404/500] [0/23], Loss : 0.014712364412844181
+Validation Spearman correlation = 0.8027828009656502
+Validation loss decreased (0.015565 --> 0.015563).  Saving model ...
+Training step : Epoch : [405/500] [0/130], Loss : 0.012491239234805107, Learning rate : 0.0001
+Training Spearman correlation = 0.7760614318877689
+Validation step : Epoch : [405/500] [0/23], Loss : 0.015012326650321484
+Validation Spearman correlation = 0.8049170132826975
+Validation loss decreased (0.015563 --> 0.015554).  Saving model ...
+Training step : Epoch : [406/500] [0/130], Loss : 0.015280693769454956, Learning rate : 0.02505
+Training Spearman correlation = 0.7751755964919016
+Validation step : Epoch : [406/500] [0/23], Loss : 0.01453295350074768
+Validation Spearman correlation = 0.7974963381080644
+Validation loss decreased (0.015554 --> 0.015546).  Saving model ...
+Training step : Epoch : [407/500] [0/130], Loss : 0.013071260415017605, Learning rate : 0.05
+Training Spearman correlation = 0.7643299295149573
+Validation step : Epoch : [407/500] [0/23], Loss : 0.015442658215761185
+Validation Spearman correlation = 0.7945762417566264
+Validation loss decreased (0.015546 --> 0.015541).  Saving model ...
+Training step : Epoch : [408/500] [0/130], Loss : 0.0145169822499156, Learning rate : 0.037525
+Training Spearman correlation = 0.7676655172629063
+Validation step : Epoch : [408/500] [0/23], Loss : 0.014053124003112316
+Validation Spearman correlation = 0.8075032038024991
+Validation loss decreased (0.015541 --> 0.015536).  Saving model ...
+Training step : Epoch : [409/500] [0/130], Loss : 0.013838125392794609, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7757133288515
+Validation step : Epoch : [409/500] [0/23], Loss : 0.01427935529500246
+Validation Spearman correlation = 0.8071436998449866
+Validation loss decreased (0.015536 --> 0.015535).  Saving model ...
+Training step : Epoch : [410/500] [0/130], Loss : 0.015838293358683586, Learning rate : 0.0001
+Training Spearman correlation = 0.7777155674434867
+Validation step : Epoch : [410/500] [0/23], Loss : 0.014396565966308117
+Validation Spearman correlation = 0.806450765416167
+Validation loss decreased (0.015535 --> 0.015534).  Saving model ...
+Training step : Epoch : [411/500] [0/130], Loss : 0.012934781610965729, Learning rate : 0.02505
+Training Spearman correlation = 0.7755517762938202
+Validation step : Epoch : [411/500] [0/23], Loss : 0.01522909477353096
+Validation Spearman correlation = 0.8058699842012711
+Validation loss decreased (0.015534 --> 0.015532).  Saving model ...
+Training step : Epoch : [412/500] [0/130], Loss : 0.014922630973160267, Learning rate : 0.05
+Training Spearman correlation = 0.7674144195420837
+Validation step : Epoch : [412/500] [0/23], Loss : 0.014773800037801266
+Validation Spearman correlation = 0.7993833026993921
+Validation loss decreased (0.015532 --> 0.015530).  Saving model ...
+Training step : Epoch : [413/500] [0/130], Loss : 0.016272492706775665, Learning rate : 0.037525
+Training Spearman correlation = 0.7708456475049972
+Validation step : Epoch : [413/500] [0/23], Loss : 0.014724872075021267
+Validation Spearman correlation = 0.7917971420737739
+Validation loss decreased (0.015530 --> 0.015529).  Saving model ...
+Training step : Epoch : [414/500] [0/130], Loss : 0.016129856929183006, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7750419778824917
+Validation step : Epoch : [414/500] [0/23], Loss : 0.014860347844660282
+Validation Spearman correlation = 0.8030622653344873
+Validation loss decreased (0.015529 --> 0.015529).  Saving model ...
+Training step : Epoch : [415/500] [0/130], Loss : 0.014492521062493324, Learning rate : 0.0001
+Training Spearman correlation = 0.778465792330719
+Validation step : Epoch : [415/500] [0/23], Loss : 0.014904108829796314
+Validation Spearman correlation = 0.8040995762232555
+Validation loss decreased (0.015529 --> 0.015526).  Saving model ...
+Training step : Epoch : [416/500] [0/130], Loss : 0.012662820518016815, Learning rate : 0.02505
+Training Spearman correlation = 0.774154815818056
+Validation step : Epoch : [416/500] [0/23], Loss : 0.01532466895878315
+Validation Spearman correlation = 0.8049813846667486
+Validation loss decreased (0.015526 --> 0.015522).  Saving model ...
+Training step : Epoch : [417/500] [0/130], Loss : 0.014898449182510376, Learning rate : 0.05
+Training Spearman correlation = 0.7665844847667481
+Validation step : Epoch : [417/500] [0/23], Loss : 0.015330439433455467
+Validation Spearman correlation = 0.7986694554252751
+Validation loss decreased (0.015522 --> 0.015521).  Saving model ...
+Training step : Epoch : [418/500] [0/130], Loss : 0.01358667854219675, Learning rate : 0.037525
+Training Spearman correlation = 0.7714509583310896
+Validation step : Epoch : [418/500] [0/23], Loss : 0.015416966751217842
+Validation Spearman correlation = 0.8034180397623832
+Validation loss decreased (0.015521 --> 0.015520).  Saving model ...
+Training step : Epoch : [419/500] [0/130], Loss : 0.01550201140344143, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7777540790431097
+Validation step : Epoch : [419/500] [0/23], Loss : 0.015026765875518322
+Validation Spearman correlation = 0.8019844847965713
+Validation loss decreased (0.015520 --> 0.015507).  Saving model ...
+Training step : Epoch : [420/500] [0/130], Loss : 0.012872274033725262, Learning rate : 0.0001
+Training Spearman correlation = 0.7809646701871824
+Validation step : Epoch : [420/500] [0/23], Loss : 0.014810078777372837
+Validation Spearman correlation = 0.8047572888767133
+Validation loss decreased (0.015507 --> 0.015493).  Saving model ...
+Training step : Epoch : [421/500] [0/130], Loss : 0.014700822532176971, Learning rate : 0.02505
+Training Spearman correlation = 0.7770420174948113
+Validation step : Epoch : [421/500] [0/23], Loss : 0.01546858623623848
+Validation Spearman correlation = 0.8019098967008997
+Validation loss decreased (0.015493 --> 0.015490).  Saving model ...
+Training step : Epoch : [422/500] [0/130], Loss : 0.013747056014835835, Learning rate : 0.05
+Training Spearman correlation = 0.7679353466080406
+Validation step : Epoch : [422/500] [0/23], Loss : 0.016736559569835663
+Validation Spearman correlation = 0.7940496152492668
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [423/500] [0/130], Loss : 0.014449892565608025, Learning rate : 0.037525
+Training Spearman correlation = 0.769270301455664
+Validation step : Epoch : [423/500] [0/23], Loss : 0.014821728691458702
+Validation Spearman correlation = 0.8049752457008515
+Validation loss decreased (0.015490 --> 0.015490).  Saving model ...
+Training step : Epoch : [424/500] [0/130], Loss : 0.01652391627430916, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7774862240498185
+Validation step : Epoch : [424/500] [0/23], Loss : 0.01485385000705719
+Validation Spearman correlation = 0.8062139681961804
+Validation loss decreased (0.015490 --> 0.015486).  Saving model ...
+Training step : Epoch : [425/500] [0/130], Loss : 0.01393059454858303, Learning rate : 0.0001
+Training Spearman correlation = 0.7790340308180024
+Validation step : Epoch : [425/500] [0/23], Loss : 0.014897332526743412
+Validation Spearman correlation = 0.8037584973940268
+Validation loss decreased (0.015486 --> 0.015458).  Saving model ...
+Training step : Epoch : [426/500] [0/130], Loss : 0.011038682423532009, Learning rate : 0.02505
+Training Spearman correlation = 0.7769173487345257
+Validation step : Epoch : [426/500] [0/23], Loss : 0.014991981908679008
+Validation Spearman correlation = 0.805263292668435
+Validation loss decreased (0.015458 --> 0.015431).  Saving model ...
+Training step : Epoch : [427/500] [0/130], Loss : 0.013728303834795952, Learning rate : 0.05
+Training Spearman correlation = 0.7693459462609392
+Validation step : Epoch : [427/500] [0/23], Loss : 0.01632029563188553
+Validation Spearman correlation = 0.7876223489158062
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [428/500] [0/130], Loss : 0.01475845742970705, Learning rate : 0.037525
+Training Spearman correlation = 0.7715592752900157
+Validation step : Epoch : [428/500] [0/23], Loss : 0.015487808734178543
+Validation Spearman correlation = 0.7975350079194736
+Validation loss decreased (0.015431 --> 0.015431).  Saving model ...
+Training step : Epoch : [429/500] [0/130], Loss : 0.014409689232707024, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7777081224344643
+Validation step : Epoch : [429/500] [0/23], Loss : 0.014960710890591145
+Validation Spearman correlation = 0.805042297938674
+Validation loss decreased (0.015431 --> 0.015424).  Saving model ...
+Training step : Epoch : [430/500] [0/130], Loss : 0.01475359033793211, Learning rate : 0.0001
+Training Spearman correlation = 0.7819812591004145
+Validation step : Epoch : [430/500] [0/23], Loss : 0.015019603073596954
+Validation Spearman correlation = 0.8047754291608267
+Validation loss decreased (0.015424 --> 0.015417).  Saving model ...
+Training step : Epoch : [431/500] [0/130], Loss : 0.013719099573791027, Learning rate : 0.02505
+Training Spearman correlation = 0.7759446746382127
+Validation step : Epoch : [431/500] [0/23], Loss : 0.015751231461763382
+Validation Spearman correlation = 0.8046817479985207
+Validation loss decreased (0.015417 --> 0.015414).  Saving model ...
+Training step : Epoch : [432/500] [0/130], Loss : 0.013702047988772392, Learning rate : 0.05
+Training Spearman correlation = 0.7656470205000082
+Validation step : Epoch : [432/500] [0/23], Loss : 0.016214260831475258
+Validation Spearman correlation = 0.789034231149846
+Validation loss decreased (0.015414 --> 0.015412).  Saving model ...
+Training step : Epoch : [433/500] [0/130], Loss : 0.015194014646112919, Learning rate : 0.037525
+Training Spearman correlation = 0.7712462801011547
+Validation step : Epoch : [433/500] [0/23], Loss : 0.01583280600607395
+Validation Spearman correlation = 0.7957877648635049
+Validation loss decreased (0.015412 --> 0.015410).  Saving model ...
+Training step : Epoch : [434/500] [0/130], Loss : 0.015156872570514679, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7771415257071933
+Validation step : Epoch : [434/500] [0/23], Loss : 0.014948862604796886
+Validation Spearman correlation = 0.8017099836804865
+Validation loss decreased (0.015410 --> 0.015408).  Saving model ...
+Training step : Epoch : [435/500] [0/130], Loss : 0.0133379977196455, Learning rate : 0.0001
+Training Spearman correlation = 0.7816650377479255
+Validation step : Epoch : [435/500] [0/23], Loss : 0.015123192220926285
+Validation Spearman correlation = 0.8037296911224188
+Validation loss decreased (0.015408 --> 0.015406).  Saving model ...
+Training step : Epoch : [436/500] [0/130], Loss : 0.017059864476323128, Learning rate : 0.02505
+Training Spearman correlation = 0.7811810087580764
+Validation step : Epoch : [436/500] [0/23], Loss : 0.015759453177452087
+Validation Spearman correlation = 0.8043031792096625
+Validation loss decreased (0.015406 --> 0.015403).  Saving model ...
+Training step : Epoch : [437/500] [0/130], Loss : 0.015823766589164734, Learning rate : 0.05
+Training Spearman correlation = 0.7699365663612479
+Validation step : Epoch : [437/500] [0/23], Loss : 0.016049178317189217
+Validation Spearman correlation = 0.7875750226447297
+Validation loss decreased (0.015403 --> 0.015388).  Saving model ...
+Training step : Epoch : [438/500] [0/130], Loss : 0.01392875425517559, Learning rate : 0.037525
+Training Spearman correlation = 0.7747725128189648
+Validation step : Epoch : [438/500] [0/23], Loss : 0.015334045514464378
+Validation Spearman correlation = 0.8030051318750014
+Validation loss decreased (0.015388 --> 0.015373).  Saving model ...
+Training step : Epoch : [439/500] [0/130], Loss : 0.015372153371572495, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7807128987245076
+Validation step : Epoch : [439/500] [0/23], Loss : 0.015096851624548435
+Validation Spearman correlation = 0.8046372703245308
+Validation loss decreased (0.015373 --> 0.015373).  Saving model ...
+Training step : Epoch : [440/500] [0/130], Loss : 0.012137692421674728, Learning rate : 0.0001
+Training Spearman correlation = 0.7834776818518437
+Validation step : Epoch : [440/500] [0/23], Loss : 0.014791632071137428
+Validation Spearman correlation = 0.8059173311047019
+Validation loss decreased (0.015373 --> 0.015373).  Saving model ...
+Training step : Epoch : [441/500] [0/130], Loss : 0.013232054188847542, Learning rate : 0.02505
+Training Spearman correlation = 0.7778600084649372
+Validation step : Epoch : [441/500] [0/23], Loss : 0.01529042236506939
+Validation Spearman correlation = 0.8029991600772411
+Validation loss decreased (0.015373 --> 0.015359).  Saving model ...
+Training step : Epoch : [442/500] [0/130], Loss : 0.014545522630214691, Learning rate : 0.05
+Training Spearman correlation = 0.7703899534385124
+Validation step : Epoch : [442/500] [0/23], Loss : 0.015054460614919662
+Validation Spearman correlation = 0.7967149397039465
+Validation loss decreased (0.015359 --> 0.015344).  Saving model ...
+Training step : Epoch : [443/500] [0/130], Loss : 0.01564827561378479, Learning rate : 0.037525
+Training Spearman correlation = 0.7748427646533951
+Validation step : Epoch : [443/500] [0/23], Loss : 0.01599980890750885
+Validation Spearman correlation = 0.8014104394424216
+Validation loss decreased (0.015344 --> 0.015342).  Saving model ...
+Training step : Epoch : [444/500] [0/130], Loss : 0.013386520557105541, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7799126265619589
+Validation step : Epoch : [444/500] [0/23], Loss : 0.015639055520296097
+Validation Spearman correlation = 0.7993962164842207
+Validation loss decreased (0.015342 --> 0.015340).  Saving model ...
+Training step : Epoch : [445/500] [0/130], Loss : 0.014074999839067459, Learning rate : 0.0001
+Training Spearman correlation = 0.7832526242245615
+Validation step : Epoch : [445/500] [0/23], Loss : 0.015193469822406769
+Validation Spearman correlation = 0.8027257849821486
+Validation loss decreased (0.015340 --> 0.015340).  Saving model ...
+Training step : Epoch : [446/500] [0/130], Loss : 0.013684352859854698, Learning rate : 0.02505
+Training Spearman correlation = 0.7769314912953033
+Validation step : Epoch : [446/500] [0/23], Loss : 0.01443636417388916
+Validation Spearman correlation = 0.801542616695985
+Validation loss decreased (0.015340 --> 0.015340).  Saving model ...
+Training step : Epoch : [447/500] [0/130], Loss : 0.013104826211929321, Learning rate : 0.05
+Training Spearman correlation = 0.7733295940543745
+Validation step : Epoch : [447/500] [0/23], Loss : 0.016450805589556694
+Validation Spearman correlation = 0.7845838347400066
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [448/500] [0/130], Loss : 0.013689081184566021, Learning rate : 0.037525
+Training Spearman correlation = 0.7742167041363225
+Validation step : Epoch : [448/500] [0/23], Loss : 0.0155537910759449
+Validation Spearman correlation = 0.797907021351261
+Validation loss decreased (0.015340 --> 0.015340).  Saving model ...
+Training step : Epoch : [449/500] [0/130], Loss : 0.01602461189031601, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7800432456342418
+Validation step : Epoch : [449/500] [0/23], Loss : 0.014351801946759224
+Validation Spearman correlation = 0.803971429150945
+Validation loss decreased (0.015340 --> 0.015333).  Saving model ...
+Training step : Epoch : [450/500] [0/130], Loss : 0.014480644837021828, Learning rate : 0.0001
+Training Spearman correlation = 0.7788295195566439
+Validation step : Epoch : [450/500] [0/23], Loss : 0.014569135382771492
+Validation Spearman correlation = 0.8029134108467926
+Validation loss decreased (0.015333 --> 0.015326).  Saving model ...
+Training step : Epoch : [451/500] [0/130], Loss : 0.01394069567322731, Learning rate : 0.02505
+Training Spearman correlation = 0.7796598176999314
+Validation step : Epoch : [451/500] [0/23], Loss : 0.015559865161776543
+Validation Spearman correlation = 0.8003474633523371
+Validation loss decreased (0.015326 --> 0.015326).  Saving model ...
+Training step : Epoch : [452/500] [0/130], Loss : 0.014032638631761074, Learning rate : 0.05
+Training Spearman correlation = 0.7745758070978546
+Validation step : Epoch : [452/500] [0/23], Loss : 0.017053380608558655
+Validation Spearman correlation = 0.7941749763571343
+Validation loss decreased (0.015326 --> 0.015326).  Saving model ...
+Training step : Epoch : [453/500] [0/130], Loss : 0.01380657684057951, Learning rate : 0.037525
+Training Spearman correlation = 0.7741970984912704
+Validation step : Epoch : [453/500] [0/23], Loss : 0.01611190289258957
+Validation Spearman correlation = 0.8017797820491573
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [454/500] [0/130], Loss : 0.016524966806173325, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7803931485793232
+Validation step : Epoch : [454/500] [0/23], Loss : 0.01490984857082367
+Validation Spearman correlation = 0.8042829801153923
+Validation loss decreased (0.015326 --> 0.015326).  Saving model ...
+Training step : Epoch : [455/500] [0/130], Loss : 0.015847712755203247, Learning rate : 0.0001
+Training Spearman correlation = 0.7844063893344041
+Validation step : Epoch : [455/500] [0/23], Loss : 0.015024908818304539
+Validation Spearman correlation = 0.8053278457792262
+Validation loss decreased (0.015326 --> 0.015322).  Saving model ...
+Training step : Epoch : [456/500] [0/130], Loss : 0.014376027509570122, Learning rate : 0.02505
+Training Spearman correlation = 0.7756278451260938
+Validation step : Epoch : [456/500] [0/23], Loss : 0.015513702295720577
+Validation Spearman correlation = 0.8053733695359039
+Validation loss decreased (0.015322 --> 0.015317).  Saving model ...
+Training step : Epoch : [457/500] [0/130], Loss : 0.011491475626826286, Learning rate : 0.05
+Training Spearman correlation = 0.7734880246414984
+Validation step : Epoch : [457/500] [0/23], Loss : 0.014795196242630482
+Validation Spearman correlation = 0.7991308125198019
+Validation loss decreased (0.015317 --> 0.015311).  Saving model ...
+Training step : Epoch : [458/500] [0/130], Loss : 0.013027402572333813, Learning rate : 0.037525
+Training Spearman correlation = 0.7764386225736387
+Validation step : Epoch : [458/500] [0/23], Loss : 0.015583484433591366
+Validation Spearman correlation = 0.7935799166164099
+Validation loss decreased (0.015311 --> 0.015304).  Saving model ...
+Training step : Epoch : [459/500] [0/130], Loss : 0.016437353566288948, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7841406964791718
+Validation step : Epoch : [459/500] [0/23], Loss : 0.014602821320295334
+Validation Spearman correlation = 0.8035247454164142
+Validation loss decreased (0.015304 --> 0.015298).  Saving model ...
+Training step : Epoch : [460/500] [0/130], Loss : 0.01405772753059864, Learning rate : 0.0001
+Training Spearman correlation = 0.7821435226799587
+Validation step : Epoch : [460/500] [0/23], Loss : 0.014815719798207283
+Validation Spearman correlation = 0.802608580917371
+Validation loss decreased (0.015298 --> 0.015292).  Saving model ...
+Training step : Epoch : [461/500] [0/130], Loss : 0.014787648804485798, Learning rate : 0.02505
+Training Spearman correlation = 0.779353340230292
+Validation step : Epoch : [461/500] [0/23], Loss : 0.015772592276334763
+Validation Spearman correlation = 0.79794703383538
+Validation loss decreased (0.015292 --> 0.015284).  Saving model ...
+Training step : Epoch : [462/500] [0/130], Loss : 0.012966511771082878, Learning rate : 0.05
+Training Spearman correlation = 0.7721208539643286
+Validation step : Epoch : [462/500] [0/23], Loss : 0.016388170421123505
+Validation Spearman correlation = 0.7786119382675061
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [463/500] [0/130], Loss : 0.013615606352686882, Learning rate : 0.037525
+Training Spearman correlation = 0.7742198136151628
+Validation step : Epoch : [463/500] [0/23], Loss : 0.015114756301045418
+Validation Spearman correlation = 0.7960121827329973
+Validation loss decreased (0.015284 --> 0.015284).  Saving model ...
+Training step : Epoch : [464/500] [0/130], Loss : 0.016794659197330475, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7827643574975648
+Validation step : Epoch : [464/500] [0/23], Loss : 0.014569929800927639
+Validation Spearman correlation = 0.8017271078274885
+Validation loss decreased (0.015284 --> 0.015276).  Saving model ...
+Training step : Epoch : [465/500] [0/130], Loss : 0.0149910356849432, Learning rate : 0.0001
+Training Spearman correlation = 0.7858088335684793
+Validation step : Epoch : [465/500] [0/23], Loss : 0.014917190186679363
+Validation Spearman correlation = 0.8027324628384699
+Validation loss decreased (0.015276 --> 0.015273).  Saving model ...
+Training step : Epoch : [466/500] [0/130], Loss : 0.013238958083093166, Learning rate : 0.02505
+Training Spearman correlation = 0.7797744366262692
+Validation step : Epoch : [466/500] [0/23], Loss : 0.014920788817107677
+Validation Spearman correlation = 0.8011159678707053
+Validation loss decreased (0.015273 --> 0.015270).  Saving model ...
+Training step : Epoch : [467/500] [0/130], Loss : 0.013733949512243271, Learning rate : 0.05
+Training Spearman correlation = 0.7757875366028587
+Validation step : Epoch : [467/500] [0/23], Loss : 0.015235897153615952
+Validation Spearman correlation = 0.7867647743150654
+Validation loss decreased (0.015270 --> 0.015270).  Saving model ...
+Training step : Epoch : [468/500] [0/130], Loss : 0.01654060184955597, Learning rate : 0.037525
+Training Spearman correlation = 0.7736034676926806
+Validation step : Epoch : [468/500] [0/23], Loss : 0.015936031937599182
+Validation Spearman correlation = 0.7990543559295111
+Validation loss decreased (0.015270 --> 0.015270).  Saving model ...
+Training step : Epoch : [469/500] [0/130], Loss : 0.012893927283585072, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.784720883169484
+Validation step : Epoch : [469/500] [0/23], Loss : 0.014817815274000168
+Validation Spearman correlation = 0.8029436196769331
+Validation loss decreased (0.015270 --> 0.015268).  Saving model ...
+Training step : Epoch : [470/500] [0/130], Loss : 0.013072457164525986, Learning rate : 0.0001
+Training Spearman correlation = 0.7878310130534777
+Validation step : Epoch : [470/500] [0/23], Loss : 0.015025676228106022
+Validation Spearman correlation = 0.8022267568594034
+Validation loss decreased (0.015268 --> 0.015266).  Saving model ...
+Training step : Epoch : [471/500] [0/130], Loss : 0.014078044332563877, Learning rate : 0.02505
+Training Spearman correlation = 0.7788417006004716
+Validation step : Epoch : [471/500] [0/23], Loss : 0.015364157035946846
+Validation Spearman correlation = 0.8012187113564041
+Validation loss decreased (0.015266 --> 0.015265).  Saving model ...
+Training step : Epoch : [472/500] [0/130], Loss : 0.015793010592460632, Learning rate : 0.05
+Training Spearman correlation = 0.7723286325176186
+Validation step : Epoch : [472/500] [0/23], Loss : 0.01775510236620903
+Validation Spearman correlation = 0.7816621530979994
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [473/500] [0/130], Loss : 0.012789223343133926, Learning rate : 0.037525
+Training Spearman correlation = 0.7773511925380618
+Validation step : Epoch : [473/500] [0/23], Loss : 0.017434414476156235
+Validation Spearman correlation = 0.7919257461762909
+Validation loss decreased (0.015265 --> 0.015265).  Saving model ...
+Training step : Epoch : [474/500] [0/130], Loss : 0.013288627378642559, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7846507590827753
+Validation step : Epoch : [474/500] [0/23], Loss : 0.014717006124556065
+Validation Spearman correlation = 0.800817479515161
+Validation loss decreased (0.015265 --> 0.015265).  Saving model ...
+Training step : Epoch : [475/500] [0/130], Loss : 0.01288769394159317, Learning rate : 0.0001
+Training Spearman correlation = 0.7891557295951042
+Validation step : Epoch : [475/500] [0/23], Loss : 0.014772215858101845
+Validation Spearman correlation = 0.8035655046865219
+Validation loss decreased (0.015265 --> 0.015262).  Saving model ...
+Training step : Epoch : [476/500] [0/130], Loss : 0.014493999071419239, Learning rate : 0.02505
+Training Spearman correlation = 0.783668462917137
+Validation step : Epoch : [476/500] [0/23], Loss : 0.015420019626617432
+Validation Spearman correlation = 0.8000514767752709
+Validation loss decreased (0.015262 --> 0.015259).  Saving model ...
+Training step : Epoch : [477/500] [0/130], Loss : 0.012879282236099243, Learning rate : 0.05
+Training Spearman correlation = 0.775760907526429
+Validation step : Epoch : [477/500] [0/23], Loss : 0.01627429388463497
+Validation Spearman correlation = 0.7953945432017376
+Validation loss decreased (0.015259 --> 0.015257).  Saving model ...
+Training step : Epoch : [478/500] [0/130], Loss : 0.011708666570484638, Learning rate : 0.037525
+Training Spearman correlation = 0.7771257880205666
+Validation step : Epoch : [478/500] [0/23], Loss : 0.015561501495540142
+Validation Spearman correlation = 0.801926939598952
+Validation loss decreased (0.015257 --> 0.015254).  Saving model ...
+Training step : Epoch : [479/500] [0/130], Loss : 0.012858542613685131, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7851272091150048
+Validation step : Epoch : [479/500] [0/23], Loss : 0.01475229300558567
+Validation Spearman correlation = 0.8044149302706957
+Validation loss decreased (0.015254 --> 0.015249).  Saving model ...
+Training step : Epoch : [480/500] [0/130], Loss : 0.014737683348357677, Learning rate : 0.0001
+Training Spearman correlation = 0.7863623963322677
+Validation step : Epoch : [480/500] [0/23], Loss : 0.014505461789667606
+Validation Spearman correlation = 0.8043867433564466
+Validation loss decreased (0.015249 --> 0.015243).  Saving model ...
+Training step : Epoch : [481/500] [0/130], Loss : 0.013024737127125263, Learning rate : 0.02505
+Training Spearman correlation = 0.7843290137195381
+Validation step : Epoch : [481/500] [0/23], Loss : 0.015291817486286163
+Validation Spearman correlation = 0.8046497317470263
+Validation loss decreased (0.015243 --> 0.015239).  Saving model ...
+Training step : Epoch : [482/500] [0/130], Loss : 0.014316540211439133, Learning rate : 0.05
+Training Spearman correlation = 0.7746639395917135
+Validation step : Epoch : [482/500] [0/23], Loss : 0.016514915972948074
+Validation Spearman correlation = 0.7859073263351857
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [483/500] [0/130], Loss : 0.015342292375862598, Learning rate : 0.037525
+Training Spearman correlation = 0.7745795687721246
+Validation step : Epoch : [483/500] [0/23], Loss : 0.015079941600561142
+Validation Spearman correlation = 0.7968857064784312
+Validation loss decreased (0.015239 --> 0.015239).  Saving model ...
+Training step : Epoch : [484/500] [0/130], Loss : 0.01483598630875349, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7857658294610045
+Validation step : Epoch : [484/500] [0/23], Loss : 0.015246039256453514
+Validation Spearman correlation = 0.800401911251936
+Validation loss decreased (0.015239 --> 0.015234).  Saving model ...
+Training step : Epoch : [485/500] [0/130], Loss : 0.01271364651620388, Learning rate : 0.0001
+Training Spearman correlation = 0.7886594045917337
+Validation step : Epoch : [485/500] [0/23], Loss : 0.014968933537602425
+Validation Spearman correlation = 0.8024794815798011
+Validation loss decreased (0.015234 --> 0.015232).  Saving model ...
+Training step : Epoch : [486/500] [0/130], Loss : 0.011942477896809578, Learning rate : 0.02505
+Training Spearman correlation = 0.7852761455625978
+Validation step : Epoch : [486/500] [0/23], Loss : 0.015158282592892647
+Validation Spearman correlation = 0.7981748198324568
+Validation loss decreased (0.015232 --> 0.015230).  Saving model ...
+Training step : Epoch : [487/500] [0/130], Loss : 0.015019559301435947, Learning rate : 0.05
+Training Spearman correlation = 0.7753401719707523
+Validation step : Epoch : [487/500] [0/23], Loss : 0.015303684398531914
+Validation Spearman correlation = 0.7937025535618889
+Validation loss decreased (0.015230 --> 0.015226).  Saving model ...
+Training step : Epoch : [488/500] [0/130], Loss : 0.013770662248134613, Learning rate : 0.037525
+Training Spearman correlation = 0.77688203879518
+Validation step : Epoch : [488/500] [0/23], Loss : 0.014675294980406761
+Validation Spearman correlation = 0.8007244195736402
+Validation loss decreased (0.015226 --> 0.015223).  Saving model ...
+Training step : Epoch : [489/500] [0/130], Loss : 0.014879370108246803, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7835337002111664
+Validation step : Epoch : [489/500] [0/23], Loss : 0.015215652994811535
+Validation Spearman correlation = 0.8001677222021627
+Validation loss decreased (0.015223 --> 0.015223).  Saving model ...
+Training step : Epoch : [490/500] [0/130], Loss : 0.013433562591671944, Learning rate : 0.0001
+Training Spearman correlation = 0.7893328836826375
+Validation step : Epoch : [490/500] [0/23], Loss : 0.014725512824952602
+Validation Spearman correlation = 0.802873581694348
+Validation loss decreased (0.015223 --> 0.015223).  Saving model ...
+Training step : Epoch : [491/500] [0/130], Loss : 0.012761513702571392, Learning rate : 0.02505
+Training Spearman correlation = 0.7802660338508649
+Validation step : Epoch : [491/500] [0/23], Loss : 0.014762025326490402
+Validation Spearman correlation = 0.8029971187266518
+Validation loss decreased (0.015223 --> 0.015221).  Saving model ...
+Training step : Epoch : [492/500] [0/130], Loss : 0.012531998567283154, Learning rate : 0.05
+Training Spearman correlation = 0.7767026911802924
+Validation step : Epoch : [492/500] [0/23], Loss : 0.016443805769085884
+Validation Spearman correlation = 0.7922115194452493
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [493/500] [0/130], Loss : 0.01410748902708292, Learning rate : 0.037525
+Training Spearman correlation = 0.7806576559102659
+Validation step : Epoch : [493/500] [0/23], Loss : 0.01658448949456215
+Validation Spearman correlation = 0.7953951964904753
+Validation loss decreased (0.015221 --> 0.015221).  Saving model ...
+Training step : Epoch : [494/500] [0/130], Loss : 0.015470042824745178, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.7851131551646454
+Validation step : Epoch : [494/500] [0/23], Loss : 0.015719924122095108
+Validation Spearman correlation = 0.8004617312472622
+Validation loss decreased (0.015221 --> 0.015220).  Saving model ...
+Training step : Epoch : [495/500] [0/130], Loss : 0.013560233637690544, Learning rate : 0.0001
+Training Spearman correlation = 0.7882895923735612
+Validation step : Epoch : [495/500] [0/23], Loss : 0.015427197329699993
+Validation Spearman correlation = 0.800369292908699
+Validation loss decreased (0.015220 --> 0.015210).  Saving model ...
+Training step : Epoch : [496/500] [0/130], Loss : 0.013296637684106827, Learning rate : 0.02505
+Training Spearman correlation = 0.7848467983189066
+Validation step : Epoch : [496/500] [0/23], Loss : 0.015867792069911957
+Validation Spearman correlation = 0.7991280002719433
+Validation loss decreased (0.015210 --> 0.015199).  Saving model ...
+Training step : Epoch : [497/500] [0/130], Loss : 0.012166276574134827, Learning rate : 0.05
+Training Spearman correlation = 0.7756397310326958
+Validation step : Epoch : [497/500] [0/23], Loss : 0.01669948548078537
+Validation Spearman correlation = 0.7935407544029254
+EarlyStopping counter: 1 out of 20
+Training step : Epoch : [498/500] [0/130], Loss : 0.014560521580278873, Learning rate : 0.037525
+Training Spearman correlation = 0.7797474255244248
+Validation step : Epoch : [498/500] [0/23], Loss : 0.016022127121686935
+Validation Spearman correlation = 0.7932916890973152
+Validation loss decreased (0.015199 --> 0.015199).  Saving model ...
+Training step : Epoch : [499/500] [0/130], Loss : 0.012610799632966518, Learning rate : 0.012575000000000005
+Training Spearman correlation = 0.787090467332863
+Validation step : Epoch : [499/500] [0/23], Loss : 0.015579396858811378
+Validation Spearman correlation = 0.7991877537855645
+Validation loss decreased (0.015199 --> 0.015197).  Saving model ...
+Spearman Correlation.	0.8139575816696043
+Pearson Correlation.	0.839417237808421
+time elapsed: 1991.2118475437164
