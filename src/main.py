@@ -20,8 +20,8 @@ import torch.optim as optim
 
 from data.data_manager import DataWrapper, DataManager
 
-from modeling.Regression.cnn import CNN
-from engine.trainDA import TrainDA
+from modeling.msc_gru import MSC_GRU
+from engine.train import Train
 from utils import *
 
 
@@ -31,10 +31,10 @@ class Runner:
         with open(config_file) as yml:
             config = yaml.load(yml, Loader=yaml.FullLoader)
 
-        self.train_ratio = float(args.ratio)
+        #self.train_ratio = float(args.ratio)
         self.set_num = int(args.set)
 
-        self.out_dir = f"{config['DATA']['out_dir']}/merged_data/ratio_{self.train_ratio}/set{self.set_num}/"
+        self.out_dir = f"{config['DATA']['out_dir']}/set{self.set_num}/"
         os.makedirs(self.out_dir, exist_ok=True)
         self.data_config = config["DATA"]["data_config"]
 
@@ -61,15 +61,14 @@ class Runner:
     def dataload(self, args):
         # encoding -> rand_augment
         DM = DataManager(self.batch_size, self.data_config, args)
-        ret1, ret2, ret3 = DM.target_load(ratio=self.train_ratio)
-        # res = DM.source_load()
+        ret1, ret2, ret3 = DM.target_load()
+        #ret1, ret2, ret3 = DM.merge_load()
 
-        # self.save_dict(res, "source")
         self.save_dict(ret1, "train")
         self.save_dict(ret2, "valid")
         self.save_dict(ret3, "test")
 
-        # self.source_loader = DM.loader_only(res)
+        #self.source_loader = DM.loader_only(res)
         self.train_loader = DM.loader_only(ret1)
         self.val_loader = DM.loader_only(ret2)
         self.test_loader = DM.loader_only(ret3)
@@ -78,7 +77,7 @@ class Runner:
 
     def init_model(self, len):
         # Create model
-        self.framework = CNN(len).to(self.device)
+        self.framework = MSC_GRU(len).to(self.device)
 
         self.optimizers = optim.SGD(
             self.framework.parameters(), lr=1e-2, momentum=0.9, weight_decay=1e-4
@@ -96,7 +95,7 @@ class Runner:
 
     def train_model(self, logger):
 
-        Engine = TrainDA(self)
+        Engine = Train(self)
         Engine.run_step(logger)
 
 
@@ -110,7 +109,7 @@ if __name__ == "__main__":
     #     "--source", type=str, help="source domain for Domain adaptation"
     # )
     parser.add_argument("--set", type=int, help=">1")
-    parser.add_argument("--ratio", type=float, help="train ratio", default=1.0)
+    #parser.add_argument("--ratio", type=float, help="train ratio", default=1.0)
 
     args = parser.parse_args()
 

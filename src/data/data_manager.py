@@ -37,11 +37,11 @@ class DataManager:
         self.domain_file = [
             f"{data_cfg['in_dir']}/{data_cfg[x]}" for x in self.domain_list
         ]
-        self.target_domain = self.domain_list[args.target]
-        self.target_file = self.domain_file[args.target]
-        # self.target_list = args.target.split(",")
-        # self.target_domain = list()
-        # self.target_file = list()
+        # self.target_domain = self.domain_list[args.target]
+        # self.target_file = self.domain_file[args.target]
+        self.target_list = args.target.split(",")
+        self.target_domain = list()
+        self.target_file = list()
 
         self.random_seed = data_cfg["seed"]
         self.batch_size = batch_size
@@ -49,7 +49,8 @@ class DataManager:
 
     def target_load(self, ratio=1.0):
 
-        data = pickle.load(open(self.target_file, "rb"))
+        
+        data = pickle.load(open(self.domain_file[int(self.target_list[0])], "rb"))
 
         data_size = len(data["X"])
         indice = list(range(data_size))
@@ -96,8 +97,8 @@ class DataManager:
 
     def random_sort(self, data):
 
-        data_list = {"X": list(), "Y": list(), "S": list()}
-        for j in "X", "Y", "S":
+        data_list = {"X": list(), "Y": list()}
+        for j in "X", "Y":
             for i in range(len(data)):
                 data_list[j] += data[i][j]
             if j == "X":
@@ -107,7 +108,7 @@ class DataManager:
         data_set = {
             "X": [data_list["X"][k] for k in Xindices],
             "Y": [data_list["Y"][k] for k in Xindices],
-            "S": [data_list["S"][k] for k in Xindices],
+            #"S": [data_list["S"][k] for k in Xindices],
         }
 
         return data_set
@@ -141,21 +142,23 @@ class DataManager:
                 indice[valid_size + test_size : valid_size + test_size + train_size],
                 train_size,
             )
+            mean_y = sum(data["Y"], 0.0) / len(data["Y"])
+            #data["Y"] = [data["Y"][i]/mean_y for i in range(len(data["Y"]))]
 
             train_set = {
                 "X": [data["X"][i] for i in indices["Train"]],
-                "Y": [data["Y"][i] for i in indices["Train"]],
-                "S": [int(idx) for i in indices["Train"]],
+                "Y": [data["Y"][i]/mean_y for i in indices["Train"]],
+                #"S": [int(idx) for i in indices["Train"]],
             }
             test_set = {
                 "X": [data["X"][i] for i in indices["Test"]],
-                "Y": [data["Y"][i] for i in indices["Test"]],
-                "S": [int(idx) for i in indices["Test"]],
+                "Y": [data["Y"][i]/mean_y for i in indices["Test"]],
+                #"S": [int(idx) for i in indices["Test"]],
             }
             valid_set = {
                 "X": [data["X"][i] for i in indices["Val"]],
-                "Y": [data["Y"][i] for i in indices["Val"]],
-                "S": [int(idx) for i in indices["Val"]],
+                "Y": [data["Y"][i]/mean_y for i in indices["Val"]],
+                #"S": [int(idx) for i in indices["Val"]],
             }
 
             train.append(train_set)
@@ -202,7 +205,7 @@ class DataWrapper:
     def __init__(self, data, transform=None):
         self.data = data
         self.transform = transform
-        self.nuc_to_idx = {"A": 0, "C": 1, "G": 2, "T": 3}
+        self.nuc_to_idx = {"A": 1, "C": 2, "G": 3, "T": 4}
 
     def __len__(self):
         return len(self.data["X"])

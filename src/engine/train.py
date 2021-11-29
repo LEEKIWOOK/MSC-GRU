@@ -2,7 +2,7 @@ import os
 import time
 import warnings
 import sys
-from scipy.stats import spearmanr, pearsonr, kendalltau
+from scipy.stats import spearmanr, pearsonr
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -13,7 +13,7 @@ from utils import *
 from modeling.utils import *
 
 
-class TrainDA:
+class Train:
     def __init__(self, Runner):
 
         self.framework = Runner.framework
